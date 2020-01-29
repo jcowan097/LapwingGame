@@ -1,0 +1,1674 @@
+﻿Log file open, 01/09/20 16:25:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Lapwing
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.190221
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.154s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU:        Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.09-23.25.50:852][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.09-23.25.50:852][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.09-23.25.50:852][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Engine.ini]
+[2020.01.09-23.25.50:852][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.09-23.25.50:852][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Engine.ini]
+[2020.01.09-23.25.50:852][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Engine.ini]
+[2020.01.09-23.25.50:852][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.09-23.25.50:852][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.09-23.25.50:852][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Engine.ini]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.09-23.25.50:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Engine.ini]
+[2020.01.09-23.25.50:853][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Engine.ini]
+[2020.01.09-23.25.50:862][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.25.50:862][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.09-23.25.50:862][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.09-23.25.50:862][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.25.50:862][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.09-23.25.50:862][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.25.50:862][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.09-23.25.50:862][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.09-23.25.50:862][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.09-23.25.50:862][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.09-23.25.50:862][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.09-23.25.50:862][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.09-23.25.50:863][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.09-23.25.50:864][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.09-23.25.50:864][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.25.50:864][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.09-23.25.50:864][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.09-23.25.50:864][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.09-23.25.50:864][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.09-23.25.50:864][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.09-23.25.50:864][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.09-23.25.50:864][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.09-23.25.50:864][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.09-23.25.50:864][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.09-23.25.50:864][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.09-23.25.50:864][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.09-23.25.50:864][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.09-23.25.50:864][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.09-23.25.50:864][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.25.50:864][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.09-23.25.50:864][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.09-23.25.50:864][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.09-23.25.50:864][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.09-23.25.50:876][  0]LogHAL: Display: Platform has ~ 16 GB [17145409536 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.01.09-23.25.50:876][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.09-23.25.50:876][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.09-23.25.50:876][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.09-23.25.50:877][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.09-23.25.50:878][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.09-23.25.50:878][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Engine.ini]
+[2020.01.09-23.25.50:878][  0]LogInit: Computer: JONAH
+[2020.01.09-23.25.50:878][  0]LogInit: User: jocow
+[2020.01.09-23.25.50:878][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.09-23.25.50:878][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.09-23.25.50:878][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.01.09-23.25.50:878][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.09-23.25.50:878][  0]LogMemory: Process Physical Memory: 103.16 MB used, 103.17 MB peak
+[2020.01.09-23.25.50:878][  0]LogMemory: Process Virtual Memory: 84.54 MB used, 84.54 MB peak
+[2020.01.09-23.25.50:878][  0]LogMemory: Physical Memory: 5950.70 MB used,  10400.44 MB free, 16351.14 MB total
+[2020.01.09-23.25.50:878][  0]LogMemory: Virtual Memory: 4616.00 MB used,  134213112.00 MB free, 134217728.00 MB total
+[2020.01.09-23.25.50:901][  0]LogInit: Using OS detected language (en-US).
+[2020.01.09-23.25.50:901][  0]LogInit: Using OS detected locale (en-CA).
+[2020.01.09-23.25.50:902][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.09-23.25.51:355][  0]LogStreaming: Display: Took  0.455s to InitEngineTextLocalization.
+[2020.01.09-23.25.51:355][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.09-23.25.51:392][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.09-23.25.51:392][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.09-23.25.51:836][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.09-23.25.51:836][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.09-23.25.51:923][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2020.01.09-23.25.51:923][  0]LogD3D11RHI:       2988/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.01.09-23.25.51:926][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.09-23.25.51:926][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.09-23.25.51:926][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.09-23.25.51:934][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.09-23.25.51:934][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.09-23.25.51:934][  0]LogWindows: EnumDisplayDevices:
+[2020.01.09-23.25.51:934][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2020.01.09-23.25.51:935][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2020.01.09-23.25.51:935][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.01.09-23.25.51:935][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.01.09-23.25.51:935][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.01.09-23.25.51:935][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2020.01.09-23.25.51:935][  0]LogD3D11RHI:   Driver Version: 441.41 (internal:26.21.14.4141, unified:441.41)
+[2020.01.09-23.25.51:935][  0]LogD3D11RHI:      Driver Date: 11-20-2019
+[2020.01.09-23.25.51:936][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2020.01.09-23.25.51:998][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.09-23.25.52:013][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.09-23.25.52:387][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.01.09-23.25.52:402][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.01.09-23.25.52:418][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.01.09-23.25.52:434][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.01.09-23.25.52:450][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.01.09-23.25.52:466][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.01.09-23.25.52:482][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.01.09-23.25.52:498][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.01.09-23.25.52:505][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.01.09-23.25.52:598][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:598][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:598][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:598][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:598][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:598][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:598][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:599][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:599][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:599][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:599][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:599][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:599][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:599][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:599][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:599][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:599][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:599][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.25.52:600][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.01.09-23.25.52:667][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.01.09-23.25.52:667][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.01.09-23.25.52:697][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.01.09-23.25.52:697][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.01.09-23.25.52:712][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.01.09-23.25.52:728][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.01.09-23.25.52:743][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.01.09-23.25.52:760][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.01.09-23.25.52:818][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.01.09-23.25.52:818][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.01.09-23.25.52:818][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.09-23.25.52:871][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Intermediate/Shaders/WorkingDirectory/3068/).
+[2020.01.09-23.25.52:871][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jocow/AppData/Local/Temp/UnrealShaderWorkingDir/D45E13554C96D526E59D209A7AFBC172/'.
+[2020.01.09-23.25.52:873][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.09-23.25.52:873][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.09-23.25.52:873][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.09-23.25.53:589][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.09-23.25.53:648][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/jocow/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.01.09-23.25.53:648][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jocow/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.01.09-23.25.53:648][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.09-23.25.53:648][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.09-23.25.53:648][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.09-23.25.53:648][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.09-23.25.53:669][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.09-23.25.53:669][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.09-23.25.53:669][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.09-23.25.53:681][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jocow/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.09-23.25.53:681][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.09-23.25.53:681][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.09-23.25.53:710][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.09-23.25.53:712][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.09-23.25.53:713][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.09-23.25.53:838][  0]LogAssetRegistry: FAssetRegistry took 0.0381 seconds to start up
+[2020.01.09-23.25.54:291][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.09-23.25.54:479][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.01.09-23.25.54:483][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.01.09-23.25.54:483][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.09-23.25.54:483][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.09-23.25.54:483][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.01.09-23.25.54:499][  0]LogNetVersion: Lapwing 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 382749890)
+[2020.01.09-23.25.55:159][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.122574 seconds
+[2020.01.09-23.25.55:166][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.01.09-23.25.55:166][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2020.01.09-23.25.55:166][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.09-23.25.56:335][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.09-23.25.56:349][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.09-23.25.57:349][  0]SourceControl: Source control is disabled
+[2020.01.09-23.25.57:349][  0]SourceControl: Source control is disabled
+[2020.01.09-23.25.57:350][  0]SourceControl: Source control is disabled
+[2020.01.09-23.25.57:351][  0]SourceControl: Source control is disabled
+[2020.01.09-23.25.57:532][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.09-23.25.57:600][  0]LogOcInput: OculusInput pre-init called
+[2020.01.09-23.25.57:744][  0]LogEngine: Initializing Engine...
+[2020.01.09-23.25.57:745][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.09-23.25.57:747][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.01.09-23.25.57:747][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.01.09-23.25.57:747][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.01.09-23.25.57:747][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.01.09-23.25.58:032][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.09-23.25.58:043][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.09-23.25.58:058][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-23.25.58:085][  0]LogInit: FAudioDevice initialized.
+[2020.01.09-23.25.58:085][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.09-23.25.58:250][  0]LogDerivedDataCache: Saved boot cache 0.17s 71MB C:/Users/jocow/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.01.09-23.25.58:251][  0]LogInit: Texture streaming: Enabled
+[2020.01.09-23.25.58:266][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.09-23.25.58:278][  0]LogInit: Transaction tracking system initialized
+[2020.01.09-23.25.58:297][  0]BlueprintLog: New page: Editor Load
+[2020.01.09-23.25.58:365][  0]LocalizationService: Localization service is disabled
+[2020.01.09-23.25.58:871][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/' took 0.01s
+[2020.01.09-23.25.58:871][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.09-23.25.58:871][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.09-23.25.58:871][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.01.09-23.25.58:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.01.09-23.25.58:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.01.09-23.25.58:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.01.09-23.25.58:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.01.09-23.25.58:998][  0]SourceControl: Source control is disabled
+[2020.01.09-23.25.58:999][  0]Cmd: MAP LOAD FILE="C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/Levels/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.09-23.25.58:999][  0]LightingResults: New page: Lighting Build
+[2020.01.09-23.25.59:001][  0]MapCheck: New page: Map Check
+[2020.01.09-23.25.59:001][  0]LightingResults: New page: Lighting Build
+[2020.01.09-23.25.59:240][  0]LogAIModule: Creating AISystem for world Test
+[2020.01.09-23.25.59:248][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.09-23.25.59:273][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.09-23.25.59:273][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.173ms to complete.
+[2020.01.09-23.25.59:273][  0]LogFileHelpers: Loading map 'Test' took 0.275
+[2020.01.09-23.25.59:390][  0]LogCollectionManager: Loaded 0 collections in 0.001167 seconds
+[2020.01.09-23.25.59:418][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Collections/' took 0.01s
+[2020.01.09-23.25.59:418][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/Developers/jocow/Collections/' took 0.00s
+[2020.01.09-23.25.59:418][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/Collections/' took 0.01s
+[2020.01.09-23.25.59:418][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.01.09-23.25.59:428][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2651 classes and 620 folders.
+[2020.01.09-23.25.59:434][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.09-23.25.59:440][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:441][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:451][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:453][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:454][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:457][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:458][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:462][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:467][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:468][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:471][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:473][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.25.59:572][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.09-23.25.59:596][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.25.59:606][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.25.59:615][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.25.59:624][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.25.59:633][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.01.09-23.25.59:655][  0]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.09-23.25.59:657][  0]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.09-23.25.59:661][  0]LogSlate: Took 0.002714 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.09-23.25.59:671][  0]LogSlate: Took 0.001179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.01.09-23.25.59:841][  0]LogRenderer: Reallocating scene render targets to support 1136x784 Format 10 NumSamples 1 (Frame:1).
+[2020.01.09-23.25.59:977][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.09-23.25.59:977][  0]LogLoad: (Engine Initialization) Total time: 11.55 seconds
+[2020.01.09-23.25.59:977][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.09-23.26.00:042][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.09-23.26.00:181][  2]LogAssetRegistry: Asset discovery search completed in 6.3651 seconds
+[2020.01.09-23.26.00:183][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.01.09-23.26.00:183][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000259 seconds (updated 0 objects)
+[2020.01.09-23.26.01:006][ 97]LogSlate: Took 0.001011 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.09-23.26.04:066][460]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.09-23.26.27:697][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-23.26.28:095][277]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.01.09-23.26.28:725][277]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2020.01.09-23.26.29:867][277]LogSlate: Took 0.004112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.09-23.26.30:259][278]LogSlate: Took 0.001063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.09-23.28.10:475][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacterBP" FILE="C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.01.09-23.28.10:605][322]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/PlayerCharacterBPE87C3D68456B32E25C2DA78A3F8A001E.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset'
+[2020.01.09-23.28.14:339][633]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-23.28.14:357][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.28.14:358][633]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.09-23.28.14:431][633]LogPlayLevel: [PlayLevel] Compiling PlayerCharacterBP before play...
+[2020.01.09-23.28.14:719][633]LogPlayLevel: PlayLevel: Blueprint regeneration took 362 ms (1 blueprints)
+[2020.01.09-23.28.14:720][633]PIE: New page: PIE session: Test (Jan 9, 2020, 9:28:14 AM)
+[2020.01.09-23.28.14:733][633]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2020.01.09-23.28.14:752][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018438s)
+[2020.01.09-23.28.14:753][633]LogAIModule: Creating AISystem for world Test
+[2020.01.09-23.28.14:753][633]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2020.01.09-23.28.14:753][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.020238s)
+[2020.01.09-23.28.14:791][633]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-23.28.14:814][633]LogInit: FAudioDevice initialized.
+[2020.01.09-23.28.14:885][633]LogLoad: Game class is 'SinglePlayerMode_C'
+[2020.01.09-23.28.14:888][633]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.01.09-16.28.14
+[2020.01.09-23.28.14:889][633]LogWorld: Bringing up level for play took: 0.002261
+[2020.01.09-23.28.14:910][633]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.01.09-23.28.14:910][633]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.28.14:911][633]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.28.14:911][633]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.28.14:913][633]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.28.14:913][633]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test 1.222
+[2020.01.09-23.28.14:914][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.28.19:941][229]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.28.19:942][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.28.19:980][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-23.28.19:980][229]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.28.20:013][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.28.20:068][231]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.01.09-23.28.21:296][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-23.29.10:740][302]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-23.29.10:758][302]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.29.10:759][302]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.09-23.29.10:792][302]LogPlayLevel: [PlayLevel] Compiling PlayerCharacterBP before play...
+[2020.01.09-23.29.11:480][302]LogBlueprint: Error: [Compiler PlayerCharacterBP] This blueprint (self) is not a GameplayTaskOwnerInterface, therefore ' Task Owner ' must have a connection.
+[2020.01.09-23.29.11:494][302]LogBlueprint: Warning: [Compiler PlayerCharacterBP] [0203.07] Compile of PlayerCharacterBP failed. 1 Fatal Issue(s) 0 Warning(s) [in 704 ms] (/Game/Blueprints/PlayerCharacterBP.PlayerCharacterBP)
+[2020.01.09-23.29.11:723][302]LogPlayLevel: PlayLevel: Blueprint regeneration took 962 ms (1 blueprints)
+[2020.01.09-23.29.11:723][302]BlueprintLog: Blueprint PlayerCharacterBP failed to compile
+[2020.01.09-23.29.13:938][302]LogSlate: Window 'Message' being destroyed
+[2020.01.09-23.30.11:227][449]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.01.09-23.30.12:315][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacterBP" FILE="C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.01.09-23.30.12:443][497]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/PlayerCharacterBP7B05A0FE4F1C7A917C322BB00C5AB90F.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset'
+[2020.01.09-23.30.21:017][168]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-23.30.21:035][168]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.30.21:036][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.09-23.30.21:036][168]PIE: New page: PIE session: Test (Jan 9, 2020, 9:30:21 AM)
+[2020.01.09-23.30.21:037][168]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2020.01.09-23.30.21:055][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017748s)
+[2020.01.09-23.30.21:055][168]LogAIModule: Creating AISystem for world Test
+[2020.01.09-23.30.21:056][168]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2020.01.09-23.30.21:056][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.019164s)
+[2020.01.09-23.30.21:095][168]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-23.30.21:118][168]LogInit: FAudioDevice initialized.
+[2020.01.09-23.30.21:153][168]LogLoad: Game class is 'SinglePlayerMode_C'
+[2020.01.09-23.30.21:155][168]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.01.09-16.30.21
+[2020.01.09-23.30.21:156][168]LogWorld: Bringing up level for play took: 0.002364
+[2020.01.09-23.30.21:169][168]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.30.21:169][168]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.30.21:169][168]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.30.21:171][168]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.30.21:171][168]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test -0.52
+[2020.01.09-23.30.21:172][168]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.30.31:583][405]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.30.31:584][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.30.31:618][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-23.30.31:618][405]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.30.31:653][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.30.31:708][407]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.01.09-23.30.32:635][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-23.30.32:718][526]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-23.30.32:735][526]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.30.32:736][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.09-23.30.32:736][526]PIE: New page: PIE session: Test (Jan 9, 2020, 9:30:32 AM)
+[2020.01.09-23.30.32:737][526]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2020.01.09-23.30.32:754][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017133s)
+[2020.01.09-23.30.32:755][526]LogAIModule: Creating AISystem for world Test
+[2020.01.09-23.30.32:755][526]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2020.01.09-23.30.32:755][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.018447s)
+[2020.01.09-23.30.32:793][526]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-23.30.32:815][526]LogInit: FAudioDevice initialized.
+[2020.01.09-23.30.32:853][526]LogLoad: Game class is 'SinglePlayerMode_C'
+[2020.01.09-23.30.32:855][526]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.01.09-16.30.32
+[2020.01.09-23.30.32:856][526]LogWorld: Bringing up level for play took: 0.002368
+[2020.01.09-23.30.32:869][526]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.30.32:869][526]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.30.32:869][526]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.30.32:871][526]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.30.32:871][526]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test -0.821
+[2020.01.09-23.30.32:871][526]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.30.42:320][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.30.42:321][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.30.42:360][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-23.30.42:361][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.30.42:390][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.30.42:445][657]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.01.09-23.30.42:934][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-23.30.43:285][756]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-23.30.43:301][756]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.30.43:302][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.09-23.30.43:302][756]PIE: New page: PIE session: Test (Jan 9, 2020, 9:30:43 AM)
+[2020.01.09-23.30.43:303][756]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2020.01.09-23.30.43:320][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017313s)
+[2020.01.09-23.30.43:321][756]LogAIModule: Creating AISystem for world Test
+[2020.01.09-23.30.43:321][756]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2020.01.09-23.30.43:321][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.018689s)
+[2020.01.09-23.30.43:359][756]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-23.30.43:381][756]LogInit: FAudioDevice initialized.
+[2020.01.09-23.30.43:411][756]LogLoad: Game class is 'SinglePlayerMode_C'
+[2020.01.09-23.30.43:415][756]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.01.09-16.30.43
+[2020.01.09-23.30.43:415][756]LogWorld: Bringing up level for play took: 0.002632
+[2020.01.09-23.30.43:428][756]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.30.43:428][756]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.30.43:428][756]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.30.43:430][756]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.30.43:431][756]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test -0.261
+[2020.01.09-23.30.43:431][756]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.30.48:179][318]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.30.48:180][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.30.48:219][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-23.30.48:219][318]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.30.48:266][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.30.48:292][319]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.01.09-23.30.49:473][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-23.30.49:548][467]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-23.30.49:566][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.30.49:567][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.09-23.30.49:567][467]PIE: New page: PIE session: Test (Jan 9, 2020, 9:30:49 AM)
+[2020.01.09-23.30.49:567][467]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2020.01.09-23.30.49:586][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018122s)
+[2020.01.09-23.30.49:586][467]LogAIModule: Creating AISystem for world Test
+[2020.01.09-23.30.49:587][467]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2020.01.09-23.30.49:587][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.019593s)
+[2020.01.09-23.30.49:622][467]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-23.30.49:643][467]LogInit: FAudioDevice initialized.
+[2020.01.09-23.30.49:674][467]LogLoad: Game class is 'SinglePlayerMode_C'
+[2020.01.09-23.30.49:677][467]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.01.09-16.30.49
+[2020.01.09-23.30.49:678][467]LogWorld: Bringing up level for play took: 0.002460
+[2020.01.09-23.30.49:691][467]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.30.49:691][467]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.30.49:691][467]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.30.49:693][467]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.30.49:694][467]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test 0.002
+[2020.01.09-23.30.49:694][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.30.53:858][962]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.30.53:859][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.30.53:897][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-23.30.53:897][962]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.30.53:931][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.30.53:986][964]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.01.09-23.30.56:652][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-23.31.43:382][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacterBP" FILE="C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.01.09-23.31.43:513][ 90]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/PlayerCharacterBPFA15443449D8E119E604ECBC39523102.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset'
+[2020.01.09-23.31.44:439][157]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.01.09-23.31.46:013][274]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-23.31.46:030][274]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.31.46:031][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.09-23.31.46:031][274]PIE: New page: PIE session: Test (Jan 9, 2020, 9:31:46 AM)
+[2020.01.09-23.31.46:031][274]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2020.01.09-23.31.46:049][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017819s)
+[2020.01.09-23.31.46:050][274]LogAIModule: Creating AISystem for world Test
+[2020.01.09-23.31.46:050][274]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2020.01.09-23.31.46:051][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.019239s)
+[2020.01.09-23.31.46:093][274]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-23.31.46:114][274]LogInit: FAudioDevice initialized.
+[2020.01.09-23.31.46:145][274]LogLoad: Game class is 'SinglePlayerMode_C'
+[2020.01.09-23.31.46:149][274]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.01.09-16.31.46
+[2020.01.09-23.31.46:149][274]LogWorld: Bringing up level for play took: 0.002622
+[2020.01.09-23.31.46:162][274]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.31.46:162][274]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.31.46:162][274]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.31.46:164][274]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.31.46:165][274]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test 0.473
+[2020.01.09-23.31.46:165][274]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.31.49:412][654]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.31.50:887][831]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.31.52:454][ 19]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.31.53:013][ 86]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.31.53:231][112]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.31.53:232][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.31.53:269][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-23.31.53:269][112]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.31.53:303][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.31.53:368][113]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.09-23.31.53:401][114]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.01.09-23.32.59:195][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacterBP" FILE="C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.01.09-23.32.59:350][685]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/PlayerCharacterBP91243787453E5218D75691AA79C9A9EF.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset'
+[2020.01.09-23.33.00:989][781]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.01.09-23.33.02:876][931]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-23.33.02:894][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.33.02:895][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.09-23.33.02:895][931]PIE: New page: PIE session: Test (Jan 9, 2020, 9:33:02 AM)
+[2020.01.09-23.33.02:896][931]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2020.01.09-23.33.02:914][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018355s)
+[2020.01.09-23.33.02:915][931]LogAIModule: Creating AISystem for world Test
+[2020.01.09-23.33.02:915][931]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2020.01.09-23.33.02:916][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.020039s)
+[2020.01.09-23.33.02:959][931]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.09-23.33.02:980][931]LogInit: FAudioDevice initialized.
+[2020.01.09-23.33.03:010][931]LogLoad: Game class is 'SinglePlayerMode_C'
+[2020.01.09-23.33.03:014][931]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.01.09-16.33.03
+[2020.01.09-23.33.03:014][931]LogWorld: Bringing up level for play took: 0.002692
+[2020.01.09-23.33.03:028][931]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.33.03:028][931]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.33.03:028][931]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.33.03:030][931]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.33.03:031][931]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test -0.661
+[2020.01.09-23.33.03:031][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.33.04:409][ 91]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:417][ 92]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:425][ 93]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:433][ 94]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:442][ 95]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:450][ 96]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:458][ 97]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:467][ 98]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:475][ 99]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:483][100]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:492][101]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:500][102]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:508][103]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:517][104]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:525][105]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:534][106]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:542][107]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:550][108]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:558][109]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:567][110]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:575][111]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:583][112]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:592][113]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:600][114]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:609][115]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:617][116]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:625][117]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:634][118]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:642][119]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:650][120]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:659][121]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:667][122]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:675][123]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:684][124]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:692][125]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:700][126]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:709][127]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:717][128]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:725][129]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:734][130]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:742][131]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:750][132]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:759][133]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:767][134]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:775][135]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:784][136]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:792][137]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:800][138]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:809][139]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:817][140]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:825][141]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:834][142]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:842][143]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:850][144]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:859][145]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:867][146]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:875][147]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:884][148]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:892][149]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:900][150]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:909][151]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:917][152]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:926][153]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:934][154]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:942][155]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:950][156]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:959][157]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:967][158]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:975][159]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:984][160]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.04:992][161]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:001][162]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:009][163]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:017][164]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:025][165]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:034][166]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:042][167]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:051][168]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:059][169]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:067][170]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:076][171]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:084][172]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:092][173]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:100][174]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:109][175]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:117][176]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:125][177]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:134][178]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:142][179]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:150][180]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:159][181]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:167][182]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:175][183]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:184][184]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:192][185]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:200][186]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:209][187]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:217][188]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:225][189]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:234][190]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:242][191]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:250][192]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:259][193]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:267][194]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:276][195]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:284][196]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:292][197]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:300][198]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:308][199]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:317][200]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:325][201]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:333][202]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:342][203]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:350][204]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:358][205]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:367][206]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:375][207]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:383][208]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:392][209]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:400][210]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:408][211]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:417][212]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:425][213]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:433][214]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:442][215]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:450][216]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:458][217]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:467][218]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:475][219]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:483][220]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:492][221]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:500][222]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:509][223]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:517][224]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:525][225]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:534][226]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:542][227]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.05:551][228]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:559][229]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:567][230]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:576][231]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:585][232]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:593][233]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:602][234]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:610][235]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:620][236]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:628][237]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:637][238]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:645][239]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:653][240]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:661][241]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:670][242]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:678][243]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:686][244]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:695][245]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:703][246]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:711][247]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:720][248]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:728][249]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:737][250]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:745][251]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:753][252]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:761][253]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:770][254]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:778][255]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:787][256]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:795][257]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:803][258]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:812][259]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:820][260]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:828][261]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:837][262]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:845][263]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:853][264]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:862][265]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:870][266]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:878][267]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:887][268]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:895][269]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:903][270]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:912][271]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:920][272]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:928][273]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:937][274]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:945][275]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:953][276]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:962][277]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:970][278]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:978][279]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:987][280]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.05:995][281]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.06:003][282]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.06:012][283]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.06:020][284]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.06:028][285]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.06:037][286]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.06:045][287]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.06:053][288]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:062][289]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:070][290]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:078][291]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:086][292]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:095][293]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:103][294]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:111][295]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:120][296]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:128][297]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:136][298]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:145][299]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:153][300]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:161][301]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:170][302]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:178][303]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:186][304]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:195][305]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:203][306]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:211][307]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:220][308]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:228][309]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:237][310]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:245][311]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:253][312]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:261][313]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:270][314]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:278][315]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:286][316]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:295][317]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:303][318]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:312][319]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:320][320]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:328][321]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:337][322]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:345][323]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:353][324]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:362][325]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:370][326]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:378][327]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:387][328]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:395][329]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:403][330]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:412][331]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:420][332]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:428][333]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:437][334]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:445][335]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:453][336]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:462][337]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:470][338]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:478][339]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:487][340]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:495][341]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:503][342]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:512][343]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:520][344]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:528][345]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:537][346]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:545][347]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:553][348]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:562][349]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:570][350]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:579][351]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:587][352]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:595][353]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:604][354]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:612][355]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:620][356]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:629][357]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:637][358]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:645][359]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:654][360]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:662][361]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:670][362]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:679][363]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:687][364]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:695][365]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:704][366]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:712][367]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:720][368]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:729][369]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:737][370]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:745][371]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:754][372]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:762][373]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:770][374]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:779][375]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:787][376]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:795][377]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:803][378]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:812][379]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:820][380]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:828][381]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:837][382]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:845][383]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:853][384]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:862][385]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:870][386]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:881][387]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:889][388]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:898][389]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:906][390]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:915][391]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:923][392]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:931][393]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:940][394]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:948][395]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:956][396]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:965][397]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:973][398]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:981][399]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:989][400]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.06:998][401]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:006][402]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:015][403]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:023][404]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:032][405]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:040][406]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:048][407]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:056][408]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:065][409]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:073][410]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:081][411]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:089][412]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:099][413]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:109][414]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:116][415]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:125][416]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:133][417]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:141][418]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:150][419]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:158][420]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:166][421]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:175][422]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:183][423]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:191][424]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:200][425]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:208][426]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:216][427]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:225][428]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:233][429]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:241][430]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:250][431]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:258][432]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:266][433]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:275][434]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:283][435]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:291][436]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:300][437]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:308][438]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:316][439]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:325][440]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:333][441]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:342][442]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:350][443]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:358][444]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:366][445]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:374][446]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:383][447]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:391][448]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:399][449]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:408][450]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:416][451]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:424][452]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:433][453]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:441][454]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:449][455]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:458][456]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:466][457]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:474][458]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:483][459]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:491][460]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:500][461]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:508][462]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:516][463]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:524][464]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:533][465]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:541][466]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:550][467]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:558][468]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:566][469]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:575][470]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:583][471]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:591][472]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.07:600][473]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:608][474]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:616][475]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:625][476]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:633][477]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:641][478]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:650][479]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:658][480]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:666][481]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:675][482]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:683][483]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:691][484]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:700][485]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:708][486]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:716][487]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:725][488]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:733][489]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:741][490]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:750][491]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:758][492]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:766][493]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:775][494]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:783][495]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:791][496]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:800][497]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:808][498]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:817][499]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:825][500]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:833][501]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:842][502]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:850][503]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:858][504]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:867][505]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:875][506]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:883][507]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:892][508]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:900][509]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:908][510]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:917][511]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:925][512]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:933][513]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:942][514]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:950][515]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:958][516]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:967][517]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:974][518]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:982][519]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:991][520]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.07:999][521]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:008][522]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:016][523]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:024][524]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:033][525]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:041][526]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:049][527]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:058][528]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:066][529]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:074][530]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:083][531]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:091][532]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:099][533]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:108][534]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:116][535]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:124][536]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:133][537]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:141][538]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:149][539]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:158][540]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:166][541]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:174][542]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:183][543]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:191][544]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:200][545]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:208][546]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:216][547]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:225][548]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:233][549]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:241][550]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:250][551]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:258][552]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:266][553]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:275][554]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:283][555]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:291][556]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:300][557]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:308][558]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:316][559]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:325][560]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:333][561]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:341][562]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:350][563]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:358][564]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:366][565]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:375][566]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:383][567]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:391][568]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:400][569]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:408][570]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:416][571]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:425][572]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:433][573]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:441][574]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:450][575]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:458][576]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:466][577]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:475][578]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:483][579]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:492][580]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:500][581]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:508][582]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:517][583]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:525][584]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:534][585]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:542][586]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:551][587]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:559][588]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:567][589]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:576][590]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:584][591]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:592][592]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:600][593]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:609][594]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:617][595]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:625][596]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:634][597]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:642][598]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:650][599]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:659][600]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:667][601]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:675][602]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:684][603]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:692][604]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:700][605]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:709][606]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:717][607]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:725][608]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:734][609]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:742][610]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:751][611]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:759][612]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:767][613]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:776][614]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:784][615]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:792][616]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:801][617]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:809][618]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:818][619]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:826][620]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:834][621]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:842][622]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:851][623]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:859][624]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:867][625]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:876][626]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.08:884][627]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:892][628]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:901][629]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:909][630]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:917][631]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:925][632]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:933][633]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:941][634]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:950][635]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:958][636]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:967][637]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:975][638]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:983][639]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.08:992][640]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:001][641]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:009][642]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:017][643]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:026][644]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:034][645]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:042][646]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:051][647]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:059][648]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:067][649]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:076][650]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:084][651]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:093][652]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:101][653]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:109][654]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:118][655]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:126][656]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:134][657]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:143][658]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:151][659]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:159][660]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:168][661]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:176][662]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:184][663]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:193][664]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:201][665]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:210][666]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:218][667]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:226][668]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:235][669]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:243][670]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:251][671]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:260][672]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:268][673]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:276][674]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:285][675]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:293][676]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:301][677]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:310][678]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:318][679]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:326][680]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:335][681]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:343][682]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:351][683]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:360][684]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:368][685]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:376][686]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:385][687]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:393][688]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:401][689]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:410][690]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:418][691]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:426][692]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:435][693]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:443][694]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:451][695]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:460][696]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:468][697]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:476][698]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:485][699]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:493][700]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:501][701]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:510][702]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:518][703]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:527][704]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:535][705]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:543][706]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:552][707]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:560][708]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:568][709]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:577][710]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:585][711]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:593][712]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:601][713]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:609][714]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:618][715]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:626][716]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:634][717]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:643][718]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.09:651][719]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:659][720]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:668][721]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:676][722]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:685][723]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:693][724]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:701][725]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:710][726]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:718][727]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:726][728]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:735][729]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:743][730]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:751][731]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:760][732]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:768][733]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:776][734]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:785][735]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:793][736]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:801][737]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:810][738]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:818][739]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:826][740]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:835][741]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:843][742]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:851][743]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:860][744]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:868][745]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:876][746]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:885][747]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:893][748]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:901][749]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:910][750]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:918][751]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:926][752]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:935][753]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:943][754]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:951][755]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:960][756]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:968][757]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:976][758]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:985][759]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.09:993][760]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:001][761]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:010][762]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:018][763]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:027][764]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:035][765]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:043][766]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:052][767]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:060][768]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:068][769]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:077][770]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:085][771]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:093][772]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:102][773]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:110][774]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:118][775]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:127][776]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:135][777]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:143][778]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] true
+[2020.01.09-23.33.10:152][779]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:160][780]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:168][781]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:177][782]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:185][783]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:193][784]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:201][785]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:209][786]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:218][787]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:226][788]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:234][789]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:243][790]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:251][791]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:259][792]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:268][793]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:276][794]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:284][795]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:293][796]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:301][797]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:309][798]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:318][799]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:326][800]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:335][801]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:343][802]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:351][803]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:360][804]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:368][805]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:376][806]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:385][807]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:393][808]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:401][809]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:410][810]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:419][811]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:427][812]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:435][813]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:444][814]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:452][815]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:460][816]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:469][817]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:477][818]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:485][819]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:494][820]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:502][821]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:510][822]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:519][823]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:527][824]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:535][825]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:544][826]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:552][827]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:560][828]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:569][829]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:577][830]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:585][831]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:594][832]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:602][833]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:611][834]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:619][835]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:627][836]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:636][837]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:644][838]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:652][839]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:661][840]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:669][841]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:677][842]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:686][843]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:694][844]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:702][845]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:711][846]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:719][847]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:727][848]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:736][849]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:744][850]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:753][851]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:761][852]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:769][853]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:778][854]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:786][855]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:795][856]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:803][857]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:812][858]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:820][859]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:828][860]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:837][861]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:845][862]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:853][863]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:862][864]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:870][865]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:878][866]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:887][867]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:895][868]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:903][869]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:912][870]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:920][871]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:928][872]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:937][873]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:945][874]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:953][875]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:962][876]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:971][877]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:979][878]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:987][879]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.10:996][880]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:004][881]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:013][882]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:021][883]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:030][884]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:038][885]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:046][886]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:054][887]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:063][888]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:071][889]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:079][890]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:088][891]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:096][892]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:104][893]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:113][894]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:121][895]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:129][896]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:138][897]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:146][898]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:154][899]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:163][900]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:171][901]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:180][902]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:188][903]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:196][904]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:204][905]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:213][906]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:221][907]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:230][908]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:238][909]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:246][910]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:254][911]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:263][912]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:271][913]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:279][914]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:287][915]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:295][916]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:304][917]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:312][918]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:320][919]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:329][920]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:337][921]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:346][922]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:354][923]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:362][924]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:370][925]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:379][926]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:387][927]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:395][928]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:404][929]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:413][930]LogBlueprintUserMessages: [PlayerCharacterBP_C_0] false
+[2020.01.09-23.33.11:414][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.33.11:415][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.33.11:455][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-23.33.11:455][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.09-23.33.11:489][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.33.11:515][931]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.01.09-23.33.12:120][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-23.33.12:274][ 15]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Blueprints/PlayerAnimation.PlayerAnimation
+[2020.01.09-23.33.12:295][ 15]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.01.09-23.33.12:513][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.09-23.33.12:519][ 15]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.01.09-23.33.12:866][ 15]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.09-23.33.13:245][ 15]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.01.09-23.33.13:317][ 15]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.09-23.33.52:778][670]LogRenderer: Reallocating scene render targets to support 1684x784 Format 10 NumSamples 1 (Frame:1).
+[2020.01.09-23.33.58:168][ 73]LogUObjectBase: Warning: Object is not registered
+[2020.01.09-23.33.58:175][ 73]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.01.09-23.34.01:576][ 73]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.401 s
+[2020.01.09-23.34.01:588][ 73]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.09-23.34.01:588][ 73]LogOutputDevice: Error: 
+[2020.01.09-23.34.01:588][ 73]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2020.01.09-23.34.01:588][ 73]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.01.09-23.34.01:588][ 73]LogOutputDevice: Error: Stack: 
+[2020.01.09-23.34.01:589][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8c5f68304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.09-23.34.01:589][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8c5f781ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.09-23.34.01:589][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8c9b1bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.01.09-23.34.01:589][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8bc40769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.01.09-23.34.01:589][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8bc3c0917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.01.09-23.34.01:590][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8cb317c74 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.09-23.34.01:590][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8cb564393 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.09-23.34.01:590][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8cb372d7a UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.09-23.34.01:590][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8cb348a70 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.09-23.34.01:590][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8cb33b263 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.09-23.34.01:591][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8eb20dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.09-23.34.01:591][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8eb200de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.09-23.34.01:591][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8eb2101eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.09-23.34.01:591][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8eb1fca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.09-23.34.01:591][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff91c1763ed USER32.dll!UnknownFunction []
+[2020.01.09-23.34.01:592][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff91c175de2 USER32.dll!UnknownFunction []
+[2020.01.09-23.34.01:592][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8eb211746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.09-23.34.01:592][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff7ef0b5546 UE4Editor.exe!UnknownFunction []
+[2020.01.09-23.34.01:592][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff7ef0c596c UE4Editor.exe!UnknownFunction []
+[2020.01.09-23.34.01:592][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff7ef0c59ea UE4Editor.exe!UnknownFunction []
+[2020.01.09-23.34.01:592][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff7ef0d48da UE4Editor.exe!UnknownFunction []
+[2020.01.09-23.34.01:593][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff7ef0d659a UE4Editor.exe!UnknownFunction []
+[2020.01.09-23.34.01:593][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff91acd7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.01.09-23.34.01:593][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff91c96ced1 ntdll.dll!UnknownFunction []
+[2020.01.09-23.34.01:593][ 73]LogOutputDevice: Error: 
+[2020.01.09-23.34.01:596][ 73]LogStats:                SubmitErrorReport -  0.000 s

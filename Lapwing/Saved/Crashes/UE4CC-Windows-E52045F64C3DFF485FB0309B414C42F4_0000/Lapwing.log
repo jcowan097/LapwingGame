@@ -1,0 +1,1643 @@
+﻿Log file open, 07/02/19 14:48:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Lapwing
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.187462
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.338s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU:        Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.148s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.02-20.48.50:356][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.02-20.48.50:356][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.02-20.48.50:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Engine.ini]
+[2019.07.02-20.48.50:356][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.02-20.48.50:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Engine.ini]
+[2019.07.02-20.48.50:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Engine.ini]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Engine.ini]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.02-20.48.50:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Engine.ini]
+[2019.07.02-20.48.50:357][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Engine.ini]
+[2019.07.02-20.48.50:365][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.02-20.48.50:365][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.02-20.48.50:366][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.02-20.48.50:367][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.02-20.48.50:367][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.02-20.48.50:367][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.02-20.48.50:367][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.02-20.48.50:367][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.02-20.48.50:367][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.02-20.48.50:367][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.02-20.48.50:367][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.02-20.48.50:367][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2019.07.02-20.48.50:367][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.02-20.48.50:367][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.02-20.48.50:367][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.02-20.48.50:367][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.02-20.48.50:510][  0]LogHAL: Display: Platform has ~ 16 GB [17145409536 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.07.02-20.48.50:510][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.02-20.48.50:510][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.02-20.48.50:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Scalability.ini]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.02-20.48.50:511][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.02-20.48.50:512][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.02-20.48.50:512][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Config/Windows/Engine.ini]
+[2019.07.02-20.48.50:512][  0]LogInit: Computer: JONAH
+[2019.07.02-20.48.50:512][  0]LogInit: User: jocow
+[2019.07.02-20.48.50:512][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.07.02-20.48.50:512][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.07.02-20.48.50:512][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.07.02-20.48.50:512][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.02-20.48.50:512][  0]LogMemory: Process Physical Memory: 102.95 MB used, 102.96 MB peak
+[2019.07.02-20.48.50:512][  0]LogMemory: Process Virtual Memory: 84.54 MB used, 84.54 MB peak
+[2019.07.02-20.48.50:512][  0]LogMemory: Physical Memory: 7095.28 MB used,  9255.86 MB free, 16351.14 MB total
+[2019.07.02-20.48.50:512][  0]LogMemory: Virtual Memory: 4630.13 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.07.02-20.48.50:538][  0]LogInit: Using OS detected language (en-US).
+[2019.07.02-20.48.50:538][  0]LogInit: Using OS detected locale (en-CA).
+[2019.07.02-20.48.50:540][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.07.02-20.48.50:993][  0]LogStreaming: Display: Took  0.455s to InitEngineTextLocalization.
+[2019.07.02-20.48.50:993][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.02-20.48.51:028][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.02-20.48.51:028][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.02-20.48.51:388][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.02-20.48.51:388][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.02-20.48.51:481][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.07.02-20.48.51:481][  0]LogD3D11RHI:       2988/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.07.02-20.48.51:484][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.02-20.48.51:484][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.02-20.48.51:484][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.02-20.48.51:492][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.02-20.48.51:492][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.02-20.48.51:492][  0]LogWindows: EnumDisplayDevices:
+[2019.07.02-20.48.51:492][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.07.02-20.48.51:492][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2019.07.02-20.48.51:493][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.07.02-20.48.51:493][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.07.02-20.48.51:493][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.07.02-20.48.51:493][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.07.02-20.48.51:493][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.07.02-20.48.51:493][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.07.02-20.48.51:493][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2019.07.02-20.48.51:586][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.02-20.48.51:601][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.07.02-20.48.52:463][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.07.02-20.48.52:480][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.07.02-20.48.52:500][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.07.02-20.48.52:516][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.07.02-20.48.52:534][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.07.02-20.48.52:551][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.07.02-20.48.52:569][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.07.02-20.48.52:590][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.07.02-20.48.52:600][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:707][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.02-20.48.52:709][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.07.02-20.48.52:780][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.07.02-20.48.52:780][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.07.02-20.48.52:811][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.07.02-20.48.52:811][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.07.02-20.48.52:827][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.07.02-20.48.52:842][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.07.02-20.48.52:858][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.07.02-20.48.52:878][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.07.02-20.48.52:941][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.07.02-20.48.52:941][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.07.02-20.48.52:941][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.02-20.48.53:012][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Intermediate/Shaders/WorkingDirectory/26332/).
+[2019.07.02-20.48.53:013][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jocow/AppData/Local/Temp/UnrealShaderWorkingDir/300C19FD4095FCDC2A08DCAFFB45C3FC/'.
+[2019.07.02-20.48.53:015][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.02-20.48.53:015][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.02-20.48.53:015][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.02-20.48.53:744][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.02-20.48.53:799][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/jocow/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.07.02-20.48.53:799][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jocow/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.07.02-20.48.53:799][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.02-20.48.53:799][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.02-20.48.53:799][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.02-20.48.53:799][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.02-20.48.53:818][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.02-20.48.53:819][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.02-20.48.53:819][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.02-20.48.53:831][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jocow/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.02-20.48.53:831][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.02-20.48.53:831][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.02-20.48.53:860][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.02-20.48.53:862][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.02-20.48.53:863][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.02-20.48.53:978][  0]LogAssetRegistry: FAssetRegistry took 0.0372 seconds to start up
+[2019.07.02-20.48.54:428][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.02-20.48.54:660][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.07.02-20.48.54:664][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.07.02-20.48.54:664][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.02-20.48.54:664][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.02-20.48.54:664][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.07.02-20.48.54:689][  0]LogNetVersion: Lapwing 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 382749890)
+[2019.07.02-20.48.55:983][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.597168 seconds
+[2019.07.02-20.48.55:990][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.07.02-20.48.55:990][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.07.02-20.48.55:990][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.02-20.48.57:379][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.02-20.48.57:406][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.02-20.48.58:432][  0]SourceControl: Source control is disabled
+[2019.07.02-20.48.58:432][  0]SourceControl: Source control is disabled
+[2019.07.02-20.48.58:434][  0]SourceControl: Source control is disabled
+[2019.07.02-20.48.58:435][  0]SourceControl: Source control is disabled
+[2019.07.02-20.48.58:654][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.02-20.48.58:729][  0]LogOcInput: OculusInput pre-init called
+[2019.07.02-20.48.58:877][  0]LogEngine: Initializing Engine...
+[2019.07.02-20.48.58:878][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.02-20.48.58:879][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.07.02-20.48.58:879][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.07.02-20.48.58:880][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.07.02-20.48.58:880][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.07.02-20.48.59:180][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.02-20.48.59:192][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.02-20.48.59:267][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.02-20.48.59:319][  0]LogInit: FAudioDevice initialized.
+[2019.07.02-20.48.59:320][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.02-20.49.00:962][  0]LogDerivedDataCache: Saved boot cache 1.64s 71MB C:/Users/jocow/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.07.02-20.49.00:962][  0]LogInit: Texture streaming: Enabled
+[2019.07.02-20.49.01:037][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.02-20.49.01:081][  0]LogInit: Transaction tracking system initialized
+[2019.07.02-20.49.01:104][  0]BlueprintLog: New page: Editor Load
+[2019.07.02-20.49.01:203][  0]LocalizationService: Localization service is disabled
+[2019.07.02-20.49.02:575][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/' took 0.04s
+[2019.07.02-20.49.02:575][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.02-20.49.02:575][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.02-20.49.02:591][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.07.02-20.49.02:591][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.07.02-20.49.02:591][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.07.02-20.49.02:592][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.07.02-20.49.02:592][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.07.02-20.49.02:735][  0]SourceControl: Source control is disabled
+[2019.07.02-20.49.02:735][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.02-20.49.02:736][  0]LightingResults: New page: Lighting Build
+[2019.07.02-20.49.02:738][  0]MapCheck: New page: Map Check
+[2019.07.02-20.49.02:738][  0]LightingResults: New page: Lighting Build
+[2019.07.02-20.49.02:971][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.07.02-20.49.02:978][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.02-20.49.03:002][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.02-20.49.03:002][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2019.07.02-20.49.03:002][  0]LogFileHelpers: Loading map 'Template_Default' took 0.267
+[2019.07.02-20.49.03:335][  0]LogCollectionManager: Loaded 0 collections in 0.008274 seconds
+[2019.07.02-20.49.03:450][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Collections/' took 0.01s
+[2019.07.02-20.49.03:450][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/Developers/jocow/Collections/' took 0.00s
+[2019.07.02-20.49.03:450][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/Collections/' took 0.00s
+[2019.07.02-20.49.03:450][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.07.02-20.49.03:465][  0]LogContentBrowser: Native class hierarchy populated in 0.0127 seconds. Added 2651 classes and 620 folders.
+[2019.07.02-20.49.03:537][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.02-20.49.03:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:724][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:740][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:759][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:764][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:767][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:772][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:778][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:783][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:786][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:791][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:814][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.03:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.02-20.49.04:635][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.02-20.49.05:029][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.02-20.49.05:065][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.02-20.49.05:077][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.02-20.49.05:090][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.02-20.49.05:166][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.07.02-20.49.05:542][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.02-20.49.05:544][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.02-20.49.05:563][  0]LogSlate: Took 0.016835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.02-20.49.06:123][  0]LogRenderer: Reallocating scene render targets to support 1268x964 Format 10 NumSamples 1 (Frame:1).
+[2019.07.02-20.49.06:610][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.07.02-20.49.06:610][  0]LogLoad: (Engine Initialization) Total time: 19.43 seconds
+[2019.07.02-20.49.06:610][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.02-20.49.06:690][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.02-20.49.06:729][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/' took 0.09s
+[2019.07.02-20.49.06:866][  2]LogAssetRegistry: Asset discovery search completed in 12.9105 seconds
+[2019.07.02-20.49.06:869][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.07.02-20.49.06:869][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2019.07.02-20.49.09:943][ 11]LogSlate: Took 0.018148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.02-20.49.10:973][ 14]LogSlate: Took 0.000421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.02-20.49.16:344][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.02-20.49.16:508][278]AssetReimport: New page: Outstanding source content changes 8:49:16 AM
+[2019.07.02-20.49.16:899][279]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.49.16:938][279]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.49.17:024][279]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.49.17:185][279]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.49.17:203][279]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.49.17:255][279]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.49.17:272][279]LogFbx: Parsing AnimStack LapwingCharacter|flap
+[2019.07.02-20.49.17:400][279]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.Fiddle_Anim_LapwingCharacter_flap
+[2019.07.02-20.49.17:413][279]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_flap) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.49.17:581][279]LogEditorFactories: -- imported successfully
+[2019.07.02-20.49.17:642][279]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.49.17:665][279]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.49.17:774][279]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.49.17:787][279]LogFbx: Parsing AnimStack LapwingCharacter|fly_start
+[2019.07.02-20.49.17:894][279]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.Fiddle_Anim_LapwingCharacter_fly_start
+[2019.07.02-20.49.17:895][279]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_fly_start) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.49.17:922][279]LogEditorFactories: -- imported successfully
+[2019.07.02-20.49.17:995][279]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.49.18:018][279]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.49.18:109][279]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.49.18:115][279]LogFbx: Parsing AnimStack LapwingCharacter|run_loop
+[2019.07.02-20.49.18:184][279]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.Fiddle_Anim_LapwingCharacter_run_loop
+[2019.07.02-20.49.18:184][279]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_loop) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.49.18:212][279]LogEditorFactories: -- imported successfully
+[2019.07.02-20.49.18:296][279]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.49.18:308][279]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.49.18:360][279]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.49.18:366][279]LogFbx: Parsing AnimStack LapwingCharacter|run_start
+[2019.07.02-20.49.18:377][279]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.Fiddle_Anim_LapwingCharacter_run_start
+[2019.07.02-20.49.18:377][279]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_start) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.49.18:391][279]LogEditorFactories: -- imported successfully
+[2019.07.02-20.49.19:405][280]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_fla6A74A4AE4FA7FF92047C91A310C35E3D.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.uasset'
+[2019.07.02-20.49.19:496][280]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_fly3E48E4CC4AD5414DB54CEDA0548D9B83.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.uasset'
+[2019.07.02-20.49.19:550][280]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_run63892ABD40E4D35CBF63E6B585111E27.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.uasset'
+[2019.07.02-20.49.19:600][280]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_run89E64896426E6DF8E29D109A17FE053B.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.uasset'
+[2019.07.02-20.49.22:682][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.02-20.49.22:690][634]AssetReimport: Error: Failed to reimport asset Fiddle.
+[2019.07.02-20.49.22:691][634]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_flap from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.49.22:691][634]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_fly_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.49.22:691][634]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_loop from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.49.22:691][634]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.53.11:670][859]AssetReimport: New page: Outstanding source content changes 8:53:11 AM
+[2019.07.02-20.53.11:672][859]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.53.11:682][859]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.53.11:726][859]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.53.11:738][859]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.53.11:748][859]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.53.11:792][859]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.53.11:889][859]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.53.11:912][859]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.53.11:958][859]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.53.11:971][859]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.53.11:982][859]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.53.12:026][859]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.53.12:038][859]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.53.12:049][859]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.53.12:093][859]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.53.15:259][226]AssetReimport: Error: Failed to reimport asset Fiddle.
+[2019.07.02-20.53.15:259][226]AssetReimport: Error: Failed to reimport asset Fiddle_Anim_LapwingCharacter_flap.
+[2019.07.02-20.53.15:259][226]AssetReimport: Error: Failed to reimport asset Fiddle_Anim_LapwingCharacter_fly_start.
+[2019.07.02-20.53.15:259][226]AssetReimport: Error: Failed to reimport asset Fiddle_Anim_LapwingCharacter_run_loop.
+[2019.07.02-20.53.15:259][226]AssetReimport: Error: Failed to reimport asset Fiddle_Anim_LapwingCharacter_run_start.
+[2019.07.02-20.53.17:048][441]LogSlate: Window 'Message Log' being destroyed
+[2019.07.02-20.53.17:053][441]LogSlate: Window 'Message Log' being destroyed
+[2019.07.02-20.53.31:279][810]AssetReimport: New page: Outstanding source content changes 8:53:31 AM
+[2019.07.02-20.53.31:280][810]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.53.31:292][810]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.53.31:368][810]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.53.31:409][810]LogFbx: =================================================
+[2019.07.02-20.53.31:409][810]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.53.31:409][810]LogFbx: 	Total Deformer Count -1031341056.
+[2019.07.02-20.53.31:409][810]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.53.31:409][810]LogFbx: =================================================
+[2019.07.02-20.53.31:409][810]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.53.31:409][810]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.53.31:409][810]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.53.31:409][810]LogFbx: =================================================
+[2019.07.02-20.53.31:409][810]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.53.31:409][810]LogFbx: 	Total Deformer Count -1031341056.
+[2019.07.02-20.53.31:409][810]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.53.31:410][810]LogFbx: =================================================
+[2019.07.02-20.53.31:410][810]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.53.31:410][810]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.53.31:410][810]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.53.31:411][810]LogFbx: Valid bind pose for Pose (Cube.001) - LapwingMesh
+[2019.07.02-20.53.31:415][810]LogFbx: Triangulating skeletal mesh LapwingMesh
+[2019.07.02-20.53.31:565][810]LogSkeletalMesh: Section 0: 126 vertices, 14 active bones
+[2019.07.02-20.53.31:566][810]LogSkeletalMesh: Section 0: Material=0, 228 triangles
+[2019.07.02-20.53.31:587][810]LogSkeletalMesh: Building Skeletal Mesh Fiddle...
+[2019.07.02-20.53.31:600][810]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-20.53.31:616][810]LogEditorFactories: -- imported successfully
+[2019.07.02-20.53.31:656][810]LogSkeletalMesh: Building Skeletal Mesh Fiddle...
+[2019.07.02-20.53.31:656][810]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-20.53.31:658][810]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.53.31:681][810]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.53.31:751][810]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.53.31:754][810]LogFbx: =================================================
+[2019.07.02-20.53.31:754][810]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.53.31:754][810]LogFbx: 	Total Deformer Count -1028891520.
+[2019.07.02-20.53.31:754][810]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.53.31:754][810]LogFbx: =================================================
+[2019.07.02-20.53.31:754][810]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.53.31:754][810]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.53.31:754][810]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.53.31:754][810]LogFbx: =================================================
+[2019.07.02-20.53.31:754][810]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.53.31:754][810]LogFbx: 	Total Deformer Count -1028891520.
+[2019.07.02-20.53.31:754][810]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.53.31:754][810]LogFbx: =================================================
+[2019.07.02-20.53.31:754][810]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.53.31:754][810]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.53.31:754][810]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.53.31:779][810]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.53.31:791][810]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.53.31:837][810]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.53.31:838][810]LogFbx: =================================================
+[2019.07.02-20.53.31:838][810]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.53.31:838][810]LogFbx: 	Total Deformer Count -1031347200.
+[2019.07.02-20.53.31:838][810]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.53.31:838][810]LogFbx: =================================================
+[2019.07.02-20.53.31:838][810]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.53.31:838][810]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.53.31:838][810]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.53.31:839][810]LogFbx: =================================================
+[2019.07.02-20.53.31:839][810]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.53.31:839][810]LogFbx: 	Total Deformer Count -1031347200.
+[2019.07.02-20.53.31:839][810]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.53.31:839][810]LogFbx: =================================================
+[2019.07.02-20.53.31:839][810]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.53.31:839][810]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.53.31:839][810]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.53.31:850][810]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.53.31:861][810]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.53.31:905][810]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.53.31:907][810]LogFbx: =================================================
+[2019.07.02-20.53.31:907][810]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.53.31:907][810]LogFbx: 	Total Deformer Count -1031350016.
+[2019.07.02-20.53.31:907][810]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.53.31:907][810]LogFbx: =================================================
+[2019.07.02-20.53.31:907][810]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.53.31:907][810]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.53.31:907][810]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.53.31:908][810]LogFbx: =================================================
+[2019.07.02-20.53.31:908][810]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.53.31:908][810]LogFbx: 	Total Deformer Count -1031350016.
+[2019.07.02-20.53.31:908][810]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.53.31:908][810]LogFbx: =================================================
+[2019.07.02-20.53.31:908][810]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.53.31:908][810]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.53.31:908][810]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.53.31:918][810]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.53.31:929][810]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.53.31:975][810]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.53.31:977][810]LogFbx: =================================================
+[2019.07.02-20.53.31:977][810]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.53.31:977][810]LogFbx: 	Total Deformer Count -1031353728.
+[2019.07.02-20.53.31:977][810]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.53.31:977][810]LogFbx: =================================================
+[2019.07.02-20.53.31:977][810]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.53.31:977][810]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.53.31:977][810]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.53.31:977][810]LogFbx: =================================================
+[2019.07.02-20.53.31:978][810]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.53.31:978][810]LogFbx: 	Total Deformer Count -1031353728.
+[2019.07.02-20.53.31:978][810]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.53.31:978][810]LogFbx: =================================================
+[2019.07.02-20.53.31:978][810]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.53.31:978][810]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.53.31:978][810]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.53.32:090][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/Fiddle" FILE="C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.uasset" SILENT=true
+[2019.07.02-20.53.32:120][811]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/FiddleCC187AD3489D07247E61969FC66E7731.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.uasset'
+[2019.07.02-20.53.35:340][189]AssetReimport: Reimported asset Fiddle from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.53.35:340][189]AssetReimport: Error: Failed to reimport asset Fiddle_Anim_LapwingCharacter_flap.
+[2019.07.02-20.53.35:340][189]AssetReimport: Error: Failed to reimport asset Fiddle_Anim_LapwingCharacter_fly_start.
+[2019.07.02-20.53.35:340][189]AssetReimport: Error: Failed to reimport asset Fiddle_Anim_LapwingCharacter_run_loop.
+[2019.07.02-20.53.35:340][189]AssetReimport: Error: Failed to reimport asset Fiddle_Anim_LapwingCharacter_run_start.
+[2019.07.02-20.53.35:434][201]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Shared/Editor/FbxErrors/index.html?utm_source=editor&utm_medium=docs&utm_campaign=msg_log
+[2019.07.02-20.54.19:099][548]AssetReimport: New page: Outstanding source content changes 8:54:19 AM
+[2019.07.02-20.54.19:100][548]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.54.19:110][548]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.54.19:127][548]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.54.19:132][548]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.54.19:142][548]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.54.19:159][548]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.54.19:161][548]LogFbx: Parsing AnimStack idle
+[2019.07.02-20.54.19:204][548]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.Fiddle_Anim_LapwingCharacter_flap
+[2019.07.02-20.54.19:204][548]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_flap) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.54.19:209][548]LogEditorFactories: -- imported successfully
+[2019.07.02-20.54.19:210][548]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.54.19:220][548]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.54.19:238][548]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.54.19:239][548]LogFbx: Parsing AnimStack idle
+[2019.07.02-20.54.19:274][548]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.Fiddle_Anim_LapwingCharacter_fly_start
+[2019.07.02-20.54.19:274][548]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_fly_start) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.54.19:293][548]LogEditorFactories: -- imported successfully
+[2019.07.02-20.54.19:294][548]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.54.19:304][548]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.54.19:321][548]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.54.19:322][548]LogFbx: Parsing AnimStack idle
+[2019.07.02-20.54.19:347][548]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.Fiddle_Anim_LapwingCharacter_run_loop
+[2019.07.02-20.54.19:347][548]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_loop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.54.19:351][548]LogEditorFactories: -- imported successfully
+[2019.07.02-20.54.19:353][548]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.54.19:362][548]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.54.19:379][548]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.54.19:380][548]LogFbx: Parsing AnimStack idle
+[2019.07.02-20.54.19:412][548]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.Fiddle_Anim_LapwingCharacter_run_start
+[2019.07.02-20.54.19:412][548]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_start) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.54.19:417][548]LogEditorFactories: -- imported successfully
+[2019.07.02-20.54.19:565][549]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_fla7049349745E157E93906B99A2239CAE2.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.uasset'
+[2019.07.02-20.54.19:617][549]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_flyEF33D6C446FD27EEB3B33BA51FEBE6C5.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.uasset'
+[2019.07.02-20.54.19:666][549]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_run768924B44BEAE79ABC2F54A4808AEC41.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.uasset'
+[2019.07.02-20.54.19:714][549]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_run08AE4DB64E3FC87EAFAEC9A1719C79F0.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.uasset'
+[2019.07.02-20.54.23:475][993]AssetReimport: Error: Failed to reimport asset Fiddle.
+[2019.07.02-20.54.23:475][993]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_flap from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.54.23:475][993]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_fly_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.54.23:475][993]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_loop from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.54.23:475][993]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.54.23:585][  7]LogSlate: Window 'Message Log' being destroyed
+[2019.07.02-20.54.23:590][  7]LogSlate: Window 'Message Log' being destroyed
+[2019.07.02-20.54.51:961][668]AssetReimport: New page: Outstanding source content changes 8:54:51 AM
+[2019.07.02-20.54.51:962][668]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.54.51:974][668]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.54.52:023][668]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.54.52:037][668]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.54.52:048][668]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.54.52:102][668]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.54.52:109][668]LogFbx: Parsing AnimStack LapwingCharacter|flap
+[2019.07.02-20.54.52:144][668]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.Fiddle_Anim_LapwingCharacter_flap
+[2019.07.02-20.54.52:144][668]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_flap) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.54.52:157][668]LogEditorFactories: -- imported successfully
+[2019.07.02-20.54.52:160][668]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.54.52:170][668]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.54.52:222][668]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.54.52:228][668]LogFbx: Parsing AnimStack LapwingCharacter|fly_start
+[2019.07.02-20.54.52:286][668]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.Fiddle_Anim_LapwingCharacter_fly_start
+[2019.07.02-20.54.52:286][668]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_fly_start) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.54.52:299][668]LogEditorFactories: -- imported successfully
+[2019.07.02-20.54.52:302][668]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.54.52:314][668]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.54.52:364][668]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.54.52:370][668]LogFbx: Parsing AnimStack LapwingCharacter|run_loop
+[2019.07.02-20.54.52:405][668]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.Fiddle_Anim_LapwingCharacter_run_loop
+[2019.07.02-20.54.52:405][668]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_loop) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.54.52:417][668]LogEditorFactories: -- imported successfully
+[2019.07.02-20.54.52:420][668]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.54.52:431][668]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.54.52:481][668]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.54.52:487][668]LogFbx: Parsing AnimStack LapwingCharacter|run_start
+[2019.07.02-20.54.52:505][668]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.Fiddle_Anim_LapwingCharacter_run_start
+[2019.07.02-20.54.52:506][668]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_start) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.54.52:518][668]LogEditorFactories: -- imported successfully
+[2019.07.02-20.54.52:604][669]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_fla2B8CD39E407273B3B4880AB0C0B8A412.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.uasset'
+[2019.07.02-20.54.52:653][669]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_flyF240F6FB41B12399977003964315554F.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.uasset'
+[2019.07.02-20.54.52:700][669]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_run2E75339345E70E5D4E3482BF0DB07DEC.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.uasset'
+[2019.07.02-20.54.52:747][669]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_runA96FB1F1477EAA41D31905A9D6117B3C.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.uasset'
+[2019.07.02-20.54.57:928][280]AssetReimport: Error: Failed to reimport asset Fiddle.
+[2019.07.02-20.54.57:928][280]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_flap from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.54.57:928][280]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_fly_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.54.57:928][280]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_loop from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.54.57:928][280]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.55.45:323][683]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-20.55.45:432][683]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.07.02-20.55.46:330][683]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.02-20.55.46:335][683]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.07.02-20.55.46:894][683]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.02-20.55.48:150][683]LogSlate: Took 0.010189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.02-20.55.48:257][683]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.07.02-20.56.01:442][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.02-20.56.01:519][378]LogSlate: Window 'Fiddle' being destroyed
+[2019.07.02-20.56.01:545][378]LogSlate: Window 'Fiddle' being destroyed
+[2019.07.02-20.56.08:750][582]AssetReimport: New page: Outstanding source content changes 8:56:08 AM
+[2019.07.02-20.56.08:752][582]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.56.08:762][582]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.56.08:812][582]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.56.08:826][582]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.56.08:837][582]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.56.08:888][582]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.56.08:893][582]LogFbx: Parsing AnimStack LapwingCharacter|flap
+[2019.07.02-20.56.08:928][582]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.Fiddle_Anim_LapwingCharacter_flap
+[2019.07.02-20.56.08:929][582]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_flap) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.56.08:942][582]LogEditorFactories: -- imported successfully
+[2019.07.02-20.56.08:945][582]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.56.08:956][582]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.56.09:007][582]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.56.09:012][582]LogFbx: Parsing AnimStack LapwingCharacter|fly_start
+[2019.07.02-20.56.09:047][582]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.Fiddle_Anim_LapwingCharacter_fly_start
+[2019.07.02-20.56.09:048][582]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_fly_start) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.56.09:060][582]LogEditorFactories: -- imported successfully
+[2019.07.02-20.56.09:063][582]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.56.09:075][582]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.56.09:125][582]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.56.09:131][582]LogFbx: Parsing AnimStack LapwingCharacter|run_loop
+[2019.07.02-20.56.09:164][582]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.Fiddle_Anim_LapwingCharacter_run_loop
+[2019.07.02-20.56.09:164][582]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_loop) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.56.09:177][582]LogEditorFactories: -- imported successfully
+[2019.07.02-20.56.09:179][582]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.56.09:190][582]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.56.09:240][582]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.56.09:246][582]LogFbx: Parsing AnimStack LapwingCharacter|run_start
+[2019.07.02-20.56.09:256][582]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.Fiddle_Anim_LapwingCharacter_run_start
+[2019.07.02-20.56.09:257][582]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_start) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.56.09:270][582]LogEditorFactories: -- imported successfully
+[2019.07.02-20.56.09:353][583]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_fla69DDA3744F3D9B5C97629DAB63145F08.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.uasset'
+[2019.07.02-20.56.09:401][583]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_flyCC76658A4B5BCBE8333D0FB6A1A021F7.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.uasset'
+[2019.07.02-20.56.09:448][583]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_runC1B052EC47843A36460F368BD340EDB8.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.uasset'
+[2019.07.02-20.56.09:496][583]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_run8B151F0E4893211611C44FACDC190684.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.uasset'
+[2019.07.02-20.56.11:710][815]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-20.56.11:720][815]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.02-20.56.11:760][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.02-20.56.12:515][850]AssetReimport: Error: Failed to reimport asset Fiddle.
+[2019.07.02-20.56.12:515][850]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_flap from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.56.12:516][850]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_fly_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.56.12:516][850]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_loop from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.56.12:516][850]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.56.14:594][ 11]LogSlate: Window 'Fiddle' being destroyed
+[2019.07.02-20.56.14:598][ 11]LogSlate: Window 'Fiddle' being destroyed
+[2019.07.02-20.57.06:532][791]AssetReimport: New page: Outstanding source content changes 8:57:06 AM
+[2019.07.02-20.57.06:534][791]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.57.06:544][791]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.57.06:595][791]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.57.06:609][791]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.57.06:620][791]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.57.06:672][791]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.57.06:679][791]LogFbx: Parsing AnimStack LapwingCharacter|flap
+[2019.07.02-20.57.06:712][791]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.Fiddle_Anim_LapwingCharacter_flap
+[2019.07.02-20.57.06:713][791]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_flap) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.57.06:726][791]LogEditorFactories: -- imported successfully
+[2019.07.02-20.57.06:729][791]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.57.06:741][791]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.57.06:790][791]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.57.06:796][791]LogFbx: Parsing AnimStack LapwingCharacter|fly_start
+[2019.07.02-20.57.06:833][791]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.Fiddle_Anim_LapwingCharacter_fly_start
+[2019.07.02-20.57.06:833][791]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_fly_start) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.57.06:846][791]LogEditorFactories: -- imported successfully
+[2019.07.02-20.57.06:849][791]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.57.06:860][791]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.57.06:911][791]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.57.06:917][791]LogFbx: Parsing AnimStack LapwingCharacter|run_loop
+[2019.07.02-20.57.06:942][791]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.Fiddle_Anim_LapwingCharacter_run_loop
+[2019.07.02-20.57.06:943][791]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_loop) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.57.06:955][791]LogEditorFactories: -- imported successfully
+[2019.07.02-20.57.06:958][791]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.57.06:969][791]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.57.07:020][791]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.57.07:026][791]LogFbx: Parsing AnimStack LapwingCharacter|run_start
+[2019.07.02-20.57.07:037][791]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.Fiddle_Anim_LapwingCharacter_run_start
+[2019.07.02-20.57.07:037][791]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_start) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.57.07:050][791]LogEditorFactories: -- imported successfully
+[2019.07.02-20.57.07:138][792]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_flaCC923D2D4C738412A6F3E386C975B871.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.uasset'
+[2019.07.02-20.57.07:185][792]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_fly5E3B8BBF4CE138A6011A25852BBFC67C.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.uasset'
+[2019.07.02-20.57.07:231][792]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_runD2357674476140840E8C3587C903BB57.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.uasset'
+[2019.07.02-20.57.07:277][792]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_run8316BA174EA43DA92ACDC99194E9B033.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.uasset'
+[2019.07.02-20.57.09:680][ 15]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-20.57.09:691][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.02-20.57.09:730][ 15]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.02-20.57.10:298][ 30]AssetReimport: Error: Failed to reimport asset Fiddle.
+[2019.07.02-20.57.10:298][ 30]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_flap from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.57.10:298][ 30]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_fly_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.57.10:298][ 30]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_loop from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.57.10:298][ 30]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.57.21:879][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.02-20.57.21:952][ 40]LogSlate: Window 'Fiddle' being destroyed
+[2019.07.02-20.57.21:958][ 40]LogSlate: Window 'Fiddle' being destroyed
+[2019.07.02-20.57.51:523][508]AssetReimport: New page: Outstanding source content changes 8:57:51 AM
+[2019.07.02-20.57.51:524][508]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.57.51:535][508]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.57.51:585][508]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.57.51:598][508]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.57.51:609][508]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.57.51:658][508]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.57.51:664][508]LogFbx: Parsing AnimStack LapwingCharacter|flap
+[2019.07.02-20.57.51:715][508]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.Fiddle_Anim_LapwingCharacter_flap
+[2019.07.02-20.57.51:715][508]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_flap) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.57.51:728][508]LogEditorFactories: -- imported successfully
+[2019.07.02-20.57.51:730][508]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.57.51:741][508]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.57.51:791][508]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.57.51:798][508]LogFbx: Parsing AnimStack LapwingCharacter|fly_start
+[2019.07.02-20.57.51:854][508]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.Fiddle_Anim_LapwingCharacter_fly_start
+[2019.07.02-20.57.51:855][508]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_fly_start) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.57.51:867][508]LogEditorFactories: -- imported successfully
+[2019.07.02-20.57.51:870][508]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.57.51:881][508]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.57.51:929][508]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.57.51:935][508]LogFbx: Parsing AnimStack LapwingCharacter|run_loop
+[2019.07.02-20.57.51:960][508]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.Fiddle_Anim_LapwingCharacter_run_loop
+[2019.07.02-20.57.51:961][508]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_loop) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.57.51:974][508]LogEditorFactories: -- imported successfully
+[2019.07.02-20.57.51:976][508]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.57.51:987][508]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.57.52:036][508]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.57.52:042][508]LogFbx: Parsing AnimStack LapwingCharacter|run_start
+[2019.07.02-20.57.52:059][508]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.Fiddle_Anim_LapwingCharacter_run_start
+[2019.07.02-20.57.52:059][508]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_start) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.57.52:072][508]LogEditorFactories: -- imported successfully
+[2019.07.02-20.57.52:179][509]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_fla2010D1A94D3E8B8201ED4DA189AFD8C2.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.uasset'
+[2019.07.02-20.57.52:227][509]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_flyD08B166140EB01219AF20FBAC8B6F49C.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.uasset'
+[2019.07.02-20.57.52:273][509]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_run81E993F04FC5553A3E7CE19370FD1184.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.uasset'
+[2019.07.02-20.57.52:320][509]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_runE6A0CE8C4929750E513FC48EB0D7F1F6.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.uasset'
+[2019.07.02-20.57.54:557][737]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-20.57.54:566][737]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.02-20.57.54:604][737]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.02-20.57.55:337][770]AssetReimport: Error: Failed to reimport asset Fiddle.
+[2019.07.02-20.57.55:337][770]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_flap from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.57.55:337][770]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_fly_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.57.55:337][770]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_loop from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.57.55:337][770]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.57.57:948][964]LogSlate: Window 'Fiddle' being destroyed
+[2019.07.02-20.57.57:952][964]LogSlate: Window 'Fiddle' being destroyed
+[2019.07.02-20.57.59:084][ 83]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.02-20.57.59:126][ 83]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.07.02-20.57.59:141][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.02-20.57.59:170][ 83]PIE: New page: PIE session: Untitled_1 (Jul 2, 2019, 8:57:59 AM)
+[2019.07.02-20.57.59:253][ 83]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.07.02-20.57.59:307][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054315s)
+[2019.07.02-20.57.59:309][ 83]LogAIModule: Creating AISystem for world Untitled_1
+[2019.07.02-20.57.59:309][ 83]LogPlayLevel: PIE: World Init took: (0.001270s)
+[2019.07.02-20.57.59:309][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.056500s)
+[2019.07.02-20.57.59:404][ 83]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.02-20.57.59:442][ 83]LogInit: FAudioDevice initialized.
+[2019.07.02-20.57.59:661][ 83]LogLoad: Game class is 'SinglePlayerMode_C'
+[2019.07.02-20.57.59:663][ 83]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.07.02-14.57.59
+[2019.07.02-20.57.59:664][ 83]LogWorld: Bringing up level for play took: 0.001486
+[2019.07.02-20.57.59:777][ 83]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2019.07.02-20.57.59:777][ 83]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.02-20.57.59:777][ 83]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.02-20.57.59:778][ 83]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.02-20.57.59:820][ 83]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.02-20.57.59:821][ 83]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.248
+[2019.07.02-20.57.59:821][ 83]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.07.02-20.58.04:254][582]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.07.02-20.58.04:254][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.02-20.58.04:326][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.02-20.58.04:326][582]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.07.02-20.58.04:351][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.02-20.58.04:376][583]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.07.02-20.58.53:422][553]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.07.02-20.59.18:293][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.02-20.59.18:412][431]AssetReimport: New page: Outstanding source content changes 8:59:18 AM
+[2019.07.02-20.59.18:414][431]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.59.18:425][431]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.59.18:479][431]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.59.18:481][431]LogFbx: =================================================
+[2019.07.02-20.59.18:481][431]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.59.18:481][431]LogFbx: 	Total Deformer Count -379949312.
+[2019.07.02-20.59.18:481][431]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.59.18:481][431]LogFbx: =================================================
+[2019.07.02-20.59.18:481][431]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.59.18:481][431]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.59.18:481][431]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.59.18:481][431]LogFbx: =================================================
+[2019.07.02-20.59.18:481][431]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.59.18:481][431]LogFbx: 	Total Deformer Count -379949312.
+[2019.07.02-20.59.18:481][431]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.59.18:481][431]LogFbx: =================================================
+[2019.07.02-20.59.18:481][431]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.59.18:481][431]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.59.18:481][431]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.59.18:482][431]LogFbx: Valid bind pose for Pose (Cube.001) - LapwingMesh
+[2019.07.02-20.59.18:483][431]LogFbx: Triangulating skeletal mesh LapwingMesh
+[2019.07.02-20.59.18:496][431]LogSkeletalMesh: Section 0: 604 vertices, 14 active bones
+[2019.07.02-20.59.18:496][431]LogSkeletalMesh: Section 0: Material=0, 228 triangles
+[2019.07.02-20.59.18:497][431]LogSkeletalMesh: Building Skeletal Mesh Fiddle...
+[2019.07.02-20.59.18:497][431]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-20.59.18:498][431]LogEditorFactories: -- imported successfully
+[2019.07.02-20.59.18:513][431]LogSkeletalMesh: Building Skeletal Mesh Fiddle...
+[2019.07.02-20.59.18:514][431]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-20.59.18:515][431]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.59.18:526][431]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.59.18:578][431]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.59.18:580][431]LogFbx: =================================================
+[2019.07.02-20.59.18:580][431]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.59.18:580][431]LogFbx: 	Total Deformer Count -379951104.
+[2019.07.02-20.59.18:580][431]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.59.18:580][431]LogFbx: =================================================
+[2019.07.02-20.59.18:580][431]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.59.18:580][431]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.59.18:580][431]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.59.18:580][431]LogFbx: =================================================
+[2019.07.02-20.59.18:580][431]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.59.18:580][431]LogFbx: 	Total Deformer Count -379951104.
+[2019.07.02-20.59.18:580][431]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.59.18:580][431]LogFbx: =================================================
+[2019.07.02-20.59.18:580][431]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.59.18:580][431]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.59.18:580][431]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.59.18:584][431]LogFbx: Parsing AnimStack LapwingCharacter|flap
+[2019.07.02-20.59.18:619][431]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.Fiddle_Anim_LapwingCharacter_flap
+[2019.07.02-20.59.18:619][431]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_flap) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.59.18:632][431]LogEditorFactories: -- imported successfully
+[2019.07.02-20.59.18:635][431]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.59.18:646][431]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.59.18:700][431]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.59.18:703][431]LogFbx: =================================================
+[2019.07.02-20.59.18:703][431]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.59.18:703][431]LogFbx: 	Total Deformer Count -379945408.
+[2019.07.02-20.59.18:703][431]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.59.18:703][431]LogFbx: =================================================
+[2019.07.02-20.59.18:703][431]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.59.18:703][431]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.59.18:703][431]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.59.18:703][431]LogFbx: =================================================
+[2019.07.02-20.59.18:703][431]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.59.18:703][431]LogFbx: 	Total Deformer Count -379945408.
+[2019.07.02-20.59.18:703][431]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.59.18:703][431]LogFbx: =================================================
+[2019.07.02-20.59.18:703][431]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.59.18:703][431]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.59.18:703][431]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.59.18:708][431]LogFbx: Parsing AnimStack LapwingCharacter|fly_start
+[2019.07.02-20.59.18:759][431]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.Fiddle_Anim_LapwingCharacter_fly_start
+[2019.07.02-20.59.18:760][431]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_fly_start) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.59.18:773][431]LogEditorFactories: -- imported successfully
+[2019.07.02-20.59.18:776][431]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.59.18:788][431]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.59.18:840][431]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.59.18:842][431]LogFbx: =================================================
+[2019.07.02-20.59.18:842][431]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.59.18:842][431]LogFbx: 	Total Deformer Count -1332407360.
+[2019.07.02-20.59.18:842][431]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.59.18:842][431]LogFbx: =================================================
+[2019.07.02-20.59.18:842][431]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.59.18:842][431]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.59.18:842][431]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.59.18:843][431]LogFbx: =================================================
+[2019.07.02-20.59.18:843][431]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.59.18:843][431]LogFbx: 	Total Deformer Count -1332407360.
+[2019.07.02-20.59.18:843][431]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.59.18:843][431]LogFbx: =================================================
+[2019.07.02-20.59.18:843][431]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.59.18:843][431]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.59.18:843][431]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.59.18:847][431]LogFbx: Parsing AnimStack LapwingCharacter|run_loop
+[2019.07.02-20.59.18:877][431]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.Fiddle_Anim_LapwingCharacter_run_loop
+[2019.07.02-20.59.18:877][431]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_loop) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.59.18:888][431]LogEditorFactories: -- imported successfully
+[2019.07.02-20.59.18:891][431]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-20.59.18:902][431]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-20.59.18:954][431]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-20.59.18:956][431]LogFbx: =================================================
+[2019.07.02-20.59.18:956][431]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.59.18:956][431]LogFbx: 	Total Deformer Count -1332402368.
+[2019.07.02-20.59.18:956][431]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.59.18:956][431]LogFbx: =================================================
+[2019.07.02-20.59.18:956][431]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.59.18:956][431]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.59.18:956][431]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.59.18:957][431]LogFbx: =================================================
+[2019.07.02-20.59.18:957][431]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-20.59.18:957][431]LogFbx: 	Total Deformer Count -1332402368.
+[2019.07.02-20.59.18:957][431]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-20.59.18:957][431]LogFbx: =================================================
+[2019.07.02-20.59.18:957][431]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-20.59.18:957][431]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-20.59.18:957][431]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-20.59.18:961][431]LogFbx: Parsing AnimStack LapwingCharacter|run_start
+[2019.07.02-20.59.18:972][431]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.Fiddle_Anim_LapwingCharacter_run_start
+[2019.07.02-20.59.18:972][431]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_start) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-20.59.18:985][431]LogEditorFactories: -- imported successfully
+[2019.07.02-20.59.19:103][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter/Fiddle" FILE="C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.uasset" SILENT=true
+[2019.07.02-20.59.19:125][432]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle1D9BCA884DA9078AE2E4B8B31085D0FC.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.uasset'
+[2019.07.02-20.59.19:176][432]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_fla47365DF346A084280358C58C186A76E7.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.uasset'
+[2019.07.02-20.59.19:219][432]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_fly1F60D74047E69B469956C88C83DF6227.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.uasset'
+[2019.07.02-20.59.19:260][432]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_run998C0F3246F1B8B3211EE6ACFB147436.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.uasset'
+[2019.07.02-20.59.19:304][432]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_runE68D65D845471BBC00099FAF9C3BFB47.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.uasset'
+[2019.07.02-20.59.22:315][776]AssetReimport: Reimported asset Fiddle from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.59.22:315][776]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_flap from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.59.22:315][776]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_fly_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.59.22:315][776]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_loop from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.59.22:315][776]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-20.59.23:033][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.02-20.59.23:213][860]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-20.59.23:222][860]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.02-20.59.23:261][860]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.02-20.59.25:890][ 14]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/PlayerCharacter/Fiddle_PhysicsAsset.Fiddle_PhysicsAsset
+[2019.07.02-20.59.25:944][ 14]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0004 seconds. Added 7 classes and 3 folders.
+[2019.07.02-20.59.25:968][ 14]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.07.02-20.59.26:384][ 14]LogSlate: Took 0.014703 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.02-20.59.26:713][ 28]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.Fiddle_Anim_LapwingCharacter_flap
+[2019.07.02-20.59.26:763][ 28]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.02-20.59.26:792][ 28]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.02-20.59.27:260][ 28]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.07.02-21.00.22:862][709]AssetReimport: New page: Outstanding source content changes 9:00:22 AM
+[2019.07.02-21.00.22:864][709]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.00.22:873][709]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.00.22:882][709]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.00.22:882][709]LogFbx: =================================================
+[2019.07.02-21.00.22:882][709]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.00.22:882][709]LogFbx: 	Total Deformer Count 223187200.
+[2019.07.02-21.00.22:882][709]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.00.22:882][709]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.00.22:882][709]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.00.22:882][709]LogFbx: =================================================
+[2019.07.02-21.00.22:882][709]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.00.22:882][709]LogFbx: 	Total Deformer Count 223187200.
+[2019.07.02-21.00.22:882][709]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.00.22:882][709]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.00.22:882][709]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.00.23:549][709]LogFbx: Triangulating skeletal mesh LapwingMesh
+[2019.07.02-21.00.23:587][709]LogSkeletalMesh: Section 0: 604 vertices, 1 active bones
+[2019.07.02-21.00.23:587][709]LogSkeletalMesh: Section 0: Material=0, 228 triangles
+[2019.07.02-21.00.23:599][709]LogSkeletalMesh: Building Skeletal Mesh Fiddle...
+[2019.07.02-21.00.23:599][709]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-21.00.29:175][709]LogSlate: Window 'Message' being destroyed
+[2019.07.02-21.00.37:284][709]LogSlate: Window 'Message' being destroyed
+[2019.07.02-21.00.37:302][709]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2019.07.02-21.00.37:302][709]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2019.07.02-21.00.37:302][709]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2019.07.02-21.00.37:306][709]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.00.37:315][709]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.00.37:323][709]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.00.37:328][709]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.00.37:338][709]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.00.37:346][709]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.00.37:351][709]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.00.37:360][709]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.00.37:368][709]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.00.37:372][709]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.00.37:382][709]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.00.37:390][709]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.00.39:338][841]LogSlate: Window 'Message Log' being destroyed
+[2019.07.02-21.00.39:346][841]LogSlate: Window 'Message Log' being destroyed
+[2019.07.02-21.00.40:539][921]AssetReimport: Error: Failed to reimport asset Fiddle.
+[2019.07.02-21.00.40:539][921]AssetReimport: Error: Failed to reimport asset Fiddle_Anim_LapwingCharacter_flap.
+[2019.07.02-21.00.40:539][921]AssetReimport: Error: Failed to reimport asset Fiddle_Anim_LapwingCharacter_fly_start.
+[2019.07.02-21.00.40:539][921]AssetReimport: Error: Failed to reimport asset Fiddle_Anim_LapwingCharacter_run_loop.
+[2019.07.02-21.00.40:540][921]AssetReimport: Error: Failed to reimport asset Fiddle_Anim_LapwingCharacter_run_start.
+[2019.07.02-21.00.42:850][ 68]LogSlate: Window 'Fiddle_Anim_LapwingCharacter_flap' being destroyed
+[2019.07.02-21.00.42:854][ 68]LogSlate: Window 'Fiddle_Anim_LapwingCharacter_flap' being destroyed
+[2019.07.02-21.00.44:876][247]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-21.00.47:009][247]LogSlate: Window 'Message' being destroyed
+[2019.07.02-21.00.48:975][359]LogSlate: Window 'Fiddle*' being destroyed
+[2019.07.02-21.00.48:981][359]LogSlate: Window 'Fiddle*' being destroyed
+[2019.07.02-21.01.14:433][660]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.07.02-21.01.15:455][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.02-21.01.15:544][770]AssetReimport: New page: Outstanding source content changes 9:01:15 AM
+[2019.07.02-21.01.15:546][770]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.01.15:558][770]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.01.15:639][770]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.01.15:642][770]LogFbx: =================================================
+[2019.07.02-21.01.15:642][770]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.01.15:642][770]LogFbx: 	Total Deformer Count -187448960.
+[2019.07.02-21.01.15:642][770]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.01.15:642][770]LogFbx: =================================================
+[2019.07.02-21.01.15:642][770]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.01.15:642][770]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.01.15:642][770]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.01.15:643][770]LogFbx: =================================================
+[2019.07.02-21.01.15:643][770]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.01.15:643][770]LogFbx: 	Total Deformer Count -187448960.
+[2019.07.02-21.01.15:643][770]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.01.15:643][770]LogFbx: =================================================
+[2019.07.02-21.01.15:643][770]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.01.15:643][770]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.01.15:643][770]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.01.15:643][770]LogFbx: Valid bind pose for Pose (Cube.001) - LapwingMesh
+[2019.07.02-21.01.15:644][770]LogFbx: Triangulating skeletal mesh LapwingMesh
+[2019.07.02-21.01.15:656][770]LogSkeletalMesh: Section 0: 604 vertices, 14 active bones
+[2019.07.02-21.01.15:656][770]LogSkeletalMesh: Section 0: Material=0, 228 triangles
+[2019.07.02-21.01.15:665][770]LogSkeletalMesh: Building Skeletal Mesh Fiddle...
+[2019.07.02-21.01.15:665][770]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-21.01.15:666][770]LogEditorFactories: -- imported successfully
+[2019.07.02-21.01.15:690][770]LogSkeletalMesh: Building Skeletal Mesh Fiddle...
+[2019.07.02-21.01.15:690][770]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-21.01.15:691][770]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.01.15:704][770]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.01.15:784][770]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.01.15:787][770]LogFbx: =================================================
+[2019.07.02-21.01.15:787][770]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.01.15:787][770]LogFbx: 	Total Deformer Count -304092544.
+[2019.07.02-21.01.15:787][770]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.01.15:787][770]LogFbx: =================================================
+[2019.07.02-21.01.15:787][770]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.01.15:787][770]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.01.15:787][770]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.01.15:787][770]LogFbx: =================================================
+[2019.07.02-21.01.15:788][770]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.01.15:788][770]LogFbx: 	Total Deformer Count -304092544.
+[2019.07.02-21.01.15:788][770]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.01.15:788][770]LogFbx: =================================================
+[2019.07.02-21.01.15:788][770]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.01.15:788][770]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.01.15:788][770]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.01.15:795][770]LogFbx: Parsing AnimStack LapwingCharacter|flap
+[2019.07.02-21.01.15:831][770]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.Fiddle_Anim_LapwingCharacter_flap
+[2019.07.02-21.01.15:831][770]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_flap) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-21.01.15:853][770]LogEditorFactories: -- imported successfully
+[2019.07.02-21.01.15:857][770]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.01.15:869][770]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.01.15:948][770]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.01.15:952][770]LogFbx: =================================================
+[2019.07.02-21.01.15:952][770]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.01.15:952][770]LogFbx: 	Total Deformer Count -304090688.
+[2019.07.02-21.01.15:952][770]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.01.15:952][770]LogFbx: =================================================
+[2019.07.02-21.01.15:952][770]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.01.15:952][770]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.01.15:952][770]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.01.15:952][770]LogFbx: =================================================
+[2019.07.02-21.01.15:952][770]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.01.15:952][770]LogFbx: 	Total Deformer Count -304090688.
+[2019.07.02-21.01.15:952][770]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.01.15:952][770]LogFbx: =================================================
+[2019.07.02-21.01.15:952][770]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.01.15:952][770]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.01.15:952][770]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.01.15:959][770]LogFbx: Parsing AnimStack LapwingCharacter|fly_start
+[2019.07.02-21.01.15:994][770]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.Fiddle_Anim_LapwingCharacter_fly_start
+[2019.07.02-21.01.15:995][770]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_fly_start) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-21.01.16:017][770]LogEditorFactories: -- imported successfully
+[2019.07.02-21.01.16:021][770]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.01.16:034][770]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.01.16:116][770]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.01.16:119][770]LogFbx: =================================================
+[2019.07.02-21.01.16:119][770]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.01.16:119][770]LogFbx: 	Total Deformer Count -304102848.
+[2019.07.02-21.01.16:119][770]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.01.16:119][770]LogFbx: =================================================
+[2019.07.02-21.01.16:119][770]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.01.16:119][770]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.01.16:119][770]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.01.16:119][770]LogFbx: =================================================
+[2019.07.02-21.01.16:119][770]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.01.16:120][770]LogFbx: 	Total Deformer Count -304102848.
+[2019.07.02-21.01.16:120][770]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.01.16:120][770]LogFbx: =================================================
+[2019.07.02-21.01.16:120][770]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.01.16:120][770]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.01.16:120][770]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.01.16:127][770]LogFbx: Parsing AnimStack LapwingCharacter|run_loop
+[2019.07.02-21.01.16:153][770]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.Fiddle_Anim_LapwingCharacter_run_loop
+[2019.07.02-21.01.16:153][770]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_loop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-21.01.16:175][770]LogEditorFactories: -- imported successfully
+[2019.07.02-21.01.16:179][770]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.01.16:192][770]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.01.16:273][770]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.01.16:276][770]LogFbx: =================================================
+[2019.07.02-21.01.16:276][770]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.01.16:276][770]LogFbx: 	Total Deformer Count -304096000.
+[2019.07.02-21.01.16:276][770]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.01.16:276][770]LogFbx: =================================================
+[2019.07.02-21.01.16:276][770]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.01.16:276][770]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.01.16:276][770]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.01.16:276][770]LogFbx: =================================================
+[2019.07.02-21.01.16:277][770]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.01.16:277][770]LogFbx: 	Total Deformer Count -304096000.
+[2019.07.02-21.01.16:277][770]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.01.16:277][770]LogFbx: =================================================
+[2019.07.02-21.01.16:277][770]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.01.16:277][770]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.01.16:277][770]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.01.16:284][770]LogFbx: Parsing AnimStack LapwingCharacter|run_start
+[2019.07.02-21.01.16:313][770]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.Fiddle_Anim_LapwingCharacter_run_start
+[2019.07.02-21.01.16:313][770]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_start) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-21.01.16:334][770]LogEditorFactories: -- imported successfully
+[2019.07.02-21.01.16:456][771]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_fla0D0E99B24D4797B5F431A4823B46D3E7.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.uasset'
+[2019.07.02-21.01.16:502][771]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_flyA0EEE87F49FFCB56473F03811E5E7D2E.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.uasset'
+[2019.07.02-21.01.16:548][771]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_runF1E73240482E3837B167E88F62FAF55B.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.uasset'
+[2019.07.02-21.01.16:595][771]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_runC6F2D21C461EA927FAD421B066F42D37.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.uasset'
+[2019.07.02-21.01.19:609][122]AssetReimport: Reimported asset Fiddle from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-21.01.19:609][122]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_flap from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-21.01.19:609][122]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_fly_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-21.01.19:609][122]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_loop from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-21.01.19:609][122]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-21.01.27:897][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.02-21.01.28:053][540]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-21.01.28:061][540]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.02-21.01.28:099][540]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.02-21.01.29:807][628]LogBlueprint: Warning: [Compiler PlayerAnimation] Entry node  New State Machine  is not connected to state
+[2019.07.02-21.01.29:808][628]LogBlueprint: Warning: [Compiler PlayerAnimation] There was no entry state connection in  New State Machine
+[2019.07.02-21.01.29:818][628]LogBlueprint: Warning: [Compiler PlayerAnimation] [0762.64] Compile of PlayerAnimation successful, but with 2 Warning(s) [in 98 ms] (/Game/Blueprints/PlayerAnimation.PlayerAnimation)
+[2019.07.02-21.01.29:852][628]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Blueprints/PlayerAnimation.PlayerAnimation
+[2019.07.02-21.01.29:934][628]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.02-21.01.31:213][628]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.07.02-21.01.32:710][628]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.02-21.01.34:749][714]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.Fiddle_Anim_LapwingCharacter_flap
+[2019.07.02-21.01.34:758][714]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.02-21.01.34:820][714]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.02-21.01.35:157][714]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.07.02-21.06.12:325][710]LogSlate: Window 'Fiddle_Anim_LapwingCharacter_flap' being destroyed
+[2019.07.02-21.06.12:327][710]LogSlate: Window 'Fiddle_Anim_LapwingCharacter_flap' being destroyed
+[2019.07.02-21.06.14:576][823]AssetReimport: New page: Outstanding source content changes 9:06:14 AM
+[2019.07.02-21.06.14:577][823]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.06.14:591][823]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.06.14:706][823]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.06.14:710][823]LogFbx: =================================================
+[2019.07.02-21.06.14:710][823]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.06.14:710][823]LogFbx: 	Total Deformer Count 1018656640.
+[2019.07.02-21.06.14:710][823]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.06.14:710][823]LogFbx: =================================================
+[2019.07.02-21.06.14:710][823]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.06.14:710][823]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.06.14:710][823]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.06.14:711][823]LogFbx: =================================================
+[2019.07.02-21.06.14:711][823]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.06.14:711][823]LogFbx: 	Total Deformer Count 1018656640.
+[2019.07.02-21.06.14:711][823]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.06.14:711][823]LogFbx: =================================================
+[2019.07.02-21.06.14:711][823]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.06.14:711][823]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.06.14:711][823]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.06.14:711][823]LogFbx: Valid bind pose for Pose (Cube.001) - LapwingMesh
+[2019.07.02-21.06.14:712][823]LogFbx: Triangulating skeletal mesh LapwingMesh
+[2019.07.02-21.06.14:724][823]LogSkeletalMesh: Section 0: 604 vertices, 14 active bones
+[2019.07.02-21.06.14:725][823]LogSkeletalMesh: Section 0: Material=0, 228 triangles
+[2019.07.02-21.06.14:725][823]LogSkeletalMesh: Building Skeletal Mesh Fiddle...
+[2019.07.02-21.06.14:726][823]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-21.06.14:727][823]LogEditorFactories: -- imported successfully
+[2019.07.02-21.06.14:764][823]LogSkeletalMesh: Building Skeletal Mesh Fiddle...
+[2019.07.02-21.06.14:764][823]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-21.06.14:765][823]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.06.14:779][823]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.06.14:893][823]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.06.14:897][823]LogFbx: =================================================
+[2019.07.02-21.06.14:897][823]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.06.14:897][823]LogFbx: 	Total Deformer Count 1018651840.
+[2019.07.02-21.06.14:897][823]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.06.14:897][823]LogFbx: =================================================
+[2019.07.02-21.06.14:897][823]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.06.14:897][823]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.06.14:897][823]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.06.14:897][823]LogFbx: =================================================
+[2019.07.02-21.06.14:897][823]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.06.14:897][823]LogFbx: 	Total Deformer Count 1018651840.
+[2019.07.02-21.06.14:897][823]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.06.14:897][823]LogFbx: =================================================
+[2019.07.02-21.06.14:898][823]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.06.14:898][823]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.06.14:898][823]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.06.14:907][823]LogFbx: Parsing AnimStack LapwingCharacter|flap
+[2019.07.02-21.06.14:942][823]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.Fiddle_Anim_LapwingCharacter_flap
+[2019.07.02-21.06.14:943][823]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_flap) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-21.06.14:976][823]LogEditorFactories: -- imported successfully
+[2019.07.02-21.06.14:982][823]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.06.14:995][823]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.06.15:110][823]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.06.15:114][823]LogFbx: =================================================
+[2019.07.02-21.06.15:114][823]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.06.15:114][823]LogFbx: 	Total Deformer Count 1018653760.
+[2019.07.02-21.06.15:114][823]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.06.15:114][823]LogFbx: =================================================
+[2019.07.02-21.06.15:114][823]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.06.15:114][823]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.06.15:114][823]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.06.15:115][823]LogFbx: =================================================
+[2019.07.02-21.06.15:115][823]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.06.15:115][823]LogFbx: 	Total Deformer Count 1018653760.
+[2019.07.02-21.06.15:115][823]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.06.15:115][823]LogFbx: =================================================
+[2019.07.02-21.06.15:115][823]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.06.15:115][823]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.06.15:115][823]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.06.15:124][823]LogFbx: Parsing AnimStack LapwingCharacter|fly_start
+[2019.07.02-21.06.15:159][823]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.Fiddle_Anim_LapwingCharacter_fly_start
+[2019.07.02-21.06.15:160][823]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_fly_start) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-21.06.15:194][823]LogEditorFactories: -- imported successfully
+[2019.07.02-21.06.15:199][823]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.06.15:213][823]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.06.15:327][823]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.06.15:331][823]LogFbx: =================================================
+[2019.07.02-21.06.15:331][823]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.06.15:331][823]LogFbx: 	Total Deformer Count 1018658496.
+[2019.07.02-21.06.15:331][823]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.06.15:331][823]LogFbx: =================================================
+[2019.07.02-21.06.15:331][823]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.06.15:331][823]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.06.15:332][823]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.06.15:332][823]LogFbx: =================================================
+[2019.07.02-21.06.15:332][823]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.06.15:332][823]LogFbx: 	Total Deformer Count 1018658496.
+[2019.07.02-21.06.15:332][823]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.06.15:332][823]LogFbx: =================================================
+[2019.07.02-21.06.15:332][823]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.06.15:332][823]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.06.15:332][823]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.06.15:341][823]LogFbx: Parsing AnimStack LapwingCharacter|run_loop
+[2019.07.02-21.06.15:367][823]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.Fiddle_Anim_LapwingCharacter_run_loop
+[2019.07.02-21.06.15:367][823]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_loop) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-21.06.15:401][823]LogEditorFactories: -- imported successfully
+[2019.07.02-21.06.15:406][823]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.06.15:419][823]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.06.15:535][823]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.06.15:539][823]LogFbx: =================================================
+[2019.07.02-21.06.15:539][823]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.06.15:539][823]LogFbx: 	Total Deformer Count 1018645888.
+[2019.07.02-21.06.15:539][823]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.06.15:539][823]LogFbx: =================================================
+[2019.07.02-21.06.15:539][823]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.06.15:539][823]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.06.15:539][823]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.06.15:539][823]LogFbx: =================================================
+[2019.07.02-21.06.15:539][823]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.06.15:539][823]LogFbx: 	Total Deformer Count 1018645888.
+[2019.07.02-21.06.15:539][823]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.06.15:539][823]LogFbx: =================================================
+[2019.07.02-21.06.15:539][823]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.06.15:539][823]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.06.15:540][823]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.06.15:549][823]LogFbx: Parsing AnimStack LapwingCharacter|run_start
+[2019.07.02-21.06.15:560][823]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.Fiddle_Anim_LapwingCharacter_run_start
+[2019.07.02-21.06.15:561][823]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_start) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-21.06.15:596][823]LogEditorFactories: -- imported successfully
+[2019.07.02-21.06.15:722][824]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_fla49490068495C428A921CFB8F31FA5FC8.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.uasset'
+[2019.07.02-21.06.15:768][824]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_fly037EEB6A436BE7FE95D392AEFAF38F2D.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.uasset'
+[2019.07.02-21.06.15:815][824]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_run550C6A2F4C19620C4C2AAAB7C0BA9FA3.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.uasset'
+[2019.07.02-21.06.15:854][824]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_runC97F83A24B97D698D482009FAE6A60C8.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_start.uasset'
+[2019.07.02-21.06.18:019][ 66]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-21.06.18:029][ 66]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.02-21.06.18:068][ 66]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.02-21.06.18:869][ 92]AssetReimport: Reimported asset Fiddle from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-21.06.18:869][ 92]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_flap from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-21.06.18:869][ 92]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_fly_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-21.06.18:869][ 92]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_loop from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-21.06.18:869][ 92]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-21.06.20:219][185]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.Fiddle_Anim_LapwingCharacter_flap
+[2019.07.02-21.06.20:229][185]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.02-21.06.20:258][185]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.02-21.06.20:594][185]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.07.02-21.06.20:693][190]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/PlayerCharacter/Fiddle_Skeleton.Fiddle_Skeleton
+[2019.07.02-21.06.20:705][190]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.02-21.06.20:743][190]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.02-21.06.24:089][420]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Blueprints/PlayerAnimation.PlayerAnimation
+[2019.07.02-21.06.24:104][420]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.02-21.06.24:429][420]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.02-21.06.25:965][506]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/PlayerCharacter/Fiddle_PhysicsAsset.Fiddle_PhysicsAsset
+[2019.07.02-21.06.25:975][506]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.07.02-21.06.32:625][ 18]LogSlate: Window 'Fiddle_PhysicsAsset' being destroyed
+[2019.07.02-21.06.32:629][ 18]LogSlate: Window 'Fiddle_PhysicsAsset' being destroyed
+[2019.07.02-21.06.40:827][349]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.02-21.06.44:467][630]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.02-21.06.46:157][803]Cmd: TRANSACTION UNDO
+[2019.07.02-21.06.46:157][803]LogEditorTransaction: Undo Clicking on Actors
+[2019.07.02-21.06.47:710][970]Cmd: TRANSACTION UNDO
+[2019.07.02-21.06.47:710][970]LogEditorTransaction: Undo Clicking on Actors
+[2019.07.02-21.06.59:036][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.02-21.07.00:452][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.02-21.07.01:264][459]AssetReimport: New page: Outstanding source content changes 9:07:01 AM
+[2019.07.02-21.07.01:265][459]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.07.01:278][459]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.07.01:392][459]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.07.01:396][459]LogFbx: =================================================
+[2019.07.02-21.07.01:396][459]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.07.01:396][459]LogFbx: 	Total Deformer Count -372215232.
+[2019.07.02-21.07.01:396][459]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.07.01:396][459]LogFbx: =================================================
+[2019.07.02-21.07.01:396][459]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.07.01:396][459]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.07.01:396][459]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.07.01:396][459]LogFbx: =================================================
+[2019.07.02-21.07.01:396][459]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.07.01:396][459]LogFbx: 	Total Deformer Count -372215232.
+[2019.07.02-21.07.01:396][459]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.07.01:396][459]LogFbx: =================================================
+[2019.07.02-21.07.01:396][459]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.07.01:396][459]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.07.01:396][459]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.07.01:397][459]LogFbx: Valid bind pose for Pose (Cube.001) - LapwingMesh
+[2019.07.02-21.07.01:397][459]LogFbx: Triangulating skeletal mesh LapwingMesh
+[2019.07.02-21.07.01:409][459]LogSkeletalMesh: Section 0: 604 vertices, 14 active bones
+[2019.07.02-21.07.01:410][459]LogSkeletalMesh: Section 0: Material=0, 228 triangles
+[2019.07.02-21.07.01:410][459]LogSkeletalMesh: Building Skeletal Mesh Fiddle...
+[2019.07.02-21.07.01:411][459]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-21.07.01:412][459]LogEditorFactories: -- imported successfully
+[2019.07.02-21.07.01:449][459]LogSkeletalMesh: Building Skeletal Mesh Fiddle...
+[2019.07.02-21.07.01:450][459]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PlayerCharacter/Fiddle.Fiddle
+[2019.07.02-21.07.01:451][459]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.07.01:465][459]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.07.01:578][459]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.07.01:582][459]LogFbx: =================================================
+[2019.07.02-21.07.01:582][459]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.07.01:582][459]LogFbx: 	Total Deformer Count -372214336.
+[2019.07.02-21.07.01:582][459]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.07.01:582][459]LogFbx: =================================================
+[2019.07.02-21.07.01:582][459]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.07.01:582][459]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.07.01:582][459]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.07.01:583][459]LogFbx: =================================================
+[2019.07.02-21.07.01:583][459]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.07.01:583][459]LogFbx: 	Total Deformer Count -372214336.
+[2019.07.02-21.07.01:583][459]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.07.01:583][459]LogFbx: =================================================
+[2019.07.02-21.07.01:583][459]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.07.01:583][459]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.07.01:583][459]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.07.01:592][459]LogFbx: Parsing AnimStack LapwingCharacter|flap
+[2019.07.02-21.07.01:627][459]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.Fiddle_Anim_LapwingCharacter_flap
+[2019.07.02-21.07.01:627][459]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_flap) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-21.07.01:659][459]LogEditorFactories: -- imported successfully
+[2019.07.02-21.07.01:665][459]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.07.01:679][459]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.07.01:794][459]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.07.01:798][459]LogFbx: =================================================
+[2019.07.02-21.07.01:798][459]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.07.01:798][459]LogFbx: 	Total Deformer Count -127775936.
+[2019.07.02-21.07.01:798][459]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.07.01:798][459]LogFbx: =================================================
+[2019.07.02-21.07.01:798][459]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.07.01:798][459]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.07.01:798][459]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.07.01:799][459]LogFbx: =================================================
+[2019.07.02-21.07.01:799][459]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.07.01:799][459]LogFbx: 	Total Deformer Count -127775936.
+[2019.07.02-21.07.01:799][459]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.07.01:799][459]LogFbx: =================================================
+[2019.07.02-21.07.01:799][459]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.07.01:799][459]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.07.01:799][459]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.07.01:808][459]LogFbx: Parsing AnimStack LapwingCharacter|fly_start
+[2019.07.02-21.07.01:843][459]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.Fiddle_Anim_LapwingCharacter_fly_start
+[2019.07.02-21.07.01:843][459]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_fly_start) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-21.07.01:877][459]LogEditorFactories: -- imported successfully
+[2019.07.02-21.07.01:882][459]LogEditorFactories: Performing atomic reimport of [C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx]
+[2019.07.02-21.07.01:896][459]LogFbx: Loading FBX Scene from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx
+[2019.07.02-21.07.02:013][459]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.02-21.07.02:017][459]LogFbx: =================================================
+[2019.07.02-21.07.02:017][459]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.07.02:017][459]LogFbx: 	Total Deformer Count -127778496.
+[2019.07.02-21.07.02:017][459]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.07.02:017][459]LogFbx: =================================================
+[2019.07.02-21.07.02:017][459]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.07.02:017][459]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.07.02:017][459]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.07.02:018][459]LogFbx: =================================================
+[2019.07.02-21.07.02:018][459]LogFbx: Dumping Node START [LapwingMesh] 
+[2019.07.02-21.07.02:018][459]LogFbx: 	Total Deformer Count -127778496.
+[2019.07.02-21.07.02:018][459]LogFbx: 		[Node 1] LapwingCharacter (Type Skin).
+[2019.07.02-21.07.02:018][459]LogFbx: =================================================
+[2019.07.02-21.07.02:018][459]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.07.02-21.07.02:018][459]LogFbx: 		[Node Attribute Child 1] LapwingMesh (Type Mesh).
+[2019.07.02-21.07.02:018][459]LogFbx: Dumping Node END [LapwingMesh]
+[2019.07.02-21.07.02:027][459]LogFbx: Parsing AnimStack LapwingCharacter|run_loop
+[2019.07.02-21.07.02:053][459]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.Fiddle_Anim_LapwingCharacter_run_loop
+[2019.07.02-21.07.02:054][459]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Fiddle_Anim_LapwingCharacter_run_loop) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.02-21.07.02:088][459]LogEditorFactories: -- imported successfully
+[2019.07.02-21.07.02:204][460]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_fla30B2207A48C828AD24BD9F897E84F7D7.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_flap.uasset'
+[2019.07.02-21.07.02:251][460]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_fly41834AD74DBAFF5543F266923D3F4A7E.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_fly_start.uasset'
+[2019.07.02-21.07.02:299][460]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Saved/Fiddle_Anim_LapwingCharacter_runC8EE79B94227A1926FE8F09A4E4D2F86.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle_Anim_LapwingCharacter_run_loop.uasset'
+[2019.07.02-21.07.05:365][816]AssetReimport: Reimported asset Fiddle from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-21.07.05:365][816]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_flap from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-21.07.05:365][816]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_fly_start from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-21.07.05:366][816]AssetReimport: Reimported asset Fiddle_Anim_LapwingCharacter_run_loop from C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/Lapwing/Lapwing/Content/PlayerCharacter/Fiddle.fbx.
+[2019.07.02-21.07.30:078][776]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.07.02-21.07.30:911][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.02-21.07.30:991][871]AssetReimport: New page: Outstanding source content changes 9:07:30 AM
+[2019.07.02-21.07.30:992][871]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.07.02-21.07.33:569][871]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.577 s
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: === Handled ensure: ===
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: 
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: Ensure condition failed: ExpectedWorkThisFrame <= 1.01f * TotalAmountOfWork - CompletedWork [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Misc\SlowTask.cpp] [Line: 86]
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: Work overflow in slow task. Please revise call-site to account for entire progress range.
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: Stack: 
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: [Callstack] 0x00007ffdab7605fe UE4Editor-Core.dll!UnknownFunction []
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: [Callstack] 0x00007ffd934f7d40 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: [Callstack] 0x00007ffd934a1077 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: [Callstack] 0x00007ffd93519aca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: [Callstack] 0x00007ffd9351bb80 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: [Callstack] 0x00007ffd934492d2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: [Callstack] 0x00007ffd93861203 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: [Callstack] 0x00007ffd94182346 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: [Callstack] 0x00007ff7c0816225 UE4Editor.exe!UnknownFunction []
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: [Callstack] 0x00007ff7c082596c UE4Editor.exe!UnknownFunction []
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: [Callstack] 0x00007ff7c08259ea UE4Editor.exe!UnknownFunction []
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: [Callstack] 0x00007ff7c08348da UE4Editor.exe!UnknownFunction []
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: [Callstack] 0x00007ff7c083659a UE4Editor.exe!UnknownFunction []
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: [Callstack] 0x00007ffdee3e7974 KERNEL32.DLL!UnknownFunction []
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: [Callstack] 0x00007ffdf073a271 ntdll.dll!UnknownFunction []
+[2019.07.02-21.07.33:571][871]LogOutputDevice: Error: 
+[2019.07.02-21.07.33:580][871]LogStats:                SubmitErrorReport -  0.000 s
