@@ -640,3 +640,97 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.31-18.07.43:551][130]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UTimelineComponent::SetPlaybackPosition' [Element not found.]
 [2020.01.31-18.09.15:672][149]LogEditorTransaction: Undo Move Node
 [2020.01.31-18.09.16:195][172]LogEditorTransaction: Undo Break Pin Links
+[2020.01.31-18.15.51:323][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacterBP" FILE="C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.01.31-18.15.51:623][445]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Saved/PlayerCharacterBP9A761CC443A3006B3A577AA479707015.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset'
+[2020.01.31-18.17.27:189][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-18.19.01:959][334]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Test' took 0.054
+[2020.01.31-18.19.01:961][334]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PlayerCharacterBP] ([1] browsable assets)...
+[2020.01.31-18.19.01:962][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerCharacterBP]
+[2020.01.31-18.19.02:247][334]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Saved/PlayerCharacterBP_Auto582EF0F6F42F633A5F54F48A824E8EA33.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Saved/Autosaves/Game/Blueprints/PlayerCharacterBP_Auto5.uasset'
+[2020.01.31-18.19.02:250][334]LogFileHelpers: Auto-saving content packages took 0.289
+[2020.01.31-18.19.23:425][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-18.23.01:489][426]LogEditorTransaction: Undo Move Nodes
+[2020.01.31-18.23.01:850][440]LogEditorTransaction: Undo Move Nodes
+[2020.01.31-18.23.02:362][468]LogEditorTransaction: Undo Create Pin Link
+[2020.01.31-18.23.02:880][497]LogEditorTransaction: Undo Delete current selection
+[2020.01.31-18.23.03:268][517]LogEditorTransaction: Undo Create Pin Link
+[2020.01.31-18.23.03:962][565]LogEditorTransaction: Undo Delete current selection
+[2020.01.31-18.23.04:461][592]LogEditorTransaction: Undo Move Node
+[2020.01.31-18.23.04:921][616]LogEditorTransaction: Undo Create Pin Link
+[2020.01.31-18.23.05:877][681]LogEditorTransaction: Undo Move Node
+[2020.01.31-18.23.06:431][712]LogEditorTransaction: Undo Move Node
+[2020.01.31-18.23.34:789][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacterBP" FILE="C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.01.31-18.23.35:082][683]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Saved/PlayerCharacterBP32F84D3648F18EDE4BD431B9DA53D0DC.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset'
+[2020.01.31-18.23.46:962][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-18.27.20:228][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacterBP" FILE="C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.01.31-18.27.20:527][292]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Saved/PlayerCharacterBP3AD7DE7746E6C01C2FEEDFA1020529BC.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset'
+[2020.01.31-18.27.20:855][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-18.34.44:158][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacterBP" FILE="C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.01.31-18.34.44:455][307]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Saved/PlayerCharacterBP345C55844B86053B1EA16DA51262810C.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset'
+[2020.01.31-18.34.45:864][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-18.34.56:416][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacterBP" FILE="C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.01.31-18.34.56:702][216]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Saved/PlayerCharacterBPB48DA53E48023B441DCDB99852100B1A.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset'
+[2020.01.31-18.34.57:242][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-18.34.57:936][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-18.34.58:003][337]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.31-18.34.58:022][337]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.31-18.34.58:023][337]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.31-18.34.58:121][337]LogPlayLevel: [PlayLevel] Compiling PlayerCharacterBP before play...
+[2020.01.31-18.34.58:518][337]LogPlayLevel: PlayLevel: Blueprint regeneration took 494 ms (1 blueprints)
+[2020.01.31-18.34.58:519][337]PIE: New page: PIE session: Test (Jan 31, 2020, 4:34:58 AM)
+[2020.01.31-18.34.58:532][337]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2020.01.31-18.34.58:586][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053164s)
+[2020.01.31-18.34.58:586][337]LogAIModule: Creating AISystem for world Test
+[2020.01.31-18.34.58:587][337]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2020.01.31-18.34.58:587][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.054934s)
+[2020.01.31-18.34.58:626][337]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.31-18.34.58:648][337]LogInit: FAudioDevice initialized.
+[2020.01.31-18.34.58:740][337]LogLoad: Game class is 'SinglePlayerMode_C'
+[2020.01.31-18.34.58:744][337]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.01.31-11.34.58
+[2020.01.31-18.34.58:745][337]LogWorld: Bringing up level for play took: 0.003386
+[2020.01.31-18.34.59:392][337]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.01.31-18.34.59:393][337]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.31-18.34.59:393][337]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.31-18.34.59:393][337]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.31-18.34.59:396][337]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.31-18.34.59:396][337]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test 0.893
+[2020.01.31-18.34.59:396][337]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.31-18.37.05:033][343]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.31-18.37.05:036][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-18.37.05:072][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.31-18.37.05:072][343]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.31-18.37.05:107][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-18.37.05:136][344]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.01.31-18.37.08:569][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-18.37.46:591][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacterBP" FILE="C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.01.31-18.37.46:919][324]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Saved/PlayerCharacterBP3FA7C7EA4CDD2069586BA5925D7C0785.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset'
+[2020.01.31-18.37.52:292][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacterBP" FILE="C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.01.31-18.37.52:575][584]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Saved/PlayerCharacterBPE39FCAD046C7FBB7D03146AC1CD19F32.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset'
+[2020.01.31-18.40.53:417][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacterBP" FILE="C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.01.31-18.40.53:761][345]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Saved/PlayerCharacterBPAE635AC44278B28CF1F19EBD253DCCF7.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Content/Blueprints/PlayerCharacterBP.uasset'
+[2020.01.31-18.41.01:582][916]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.31-18.41.01:602][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.31-18.41.01:603][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.31-18.41.01:603][916]PIE: New page: PIE session: Test (Jan 31, 2020, 4:41:01 AM)
+[2020.01.31-18.41.01:604][916]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2020.01.31-18.41.01:633][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028748s)
+[2020.01.31-18.41.01:633][916]LogAIModule: Creating AISystem for world Test
+[2020.01.31-18.41.01:634][916]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2020.01.31-18.41.01:634][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.030322s)
+[2020.01.31-18.41.01:670][916]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.31-18.41.01:694][916]LogInit: FAudioDevice initialized.
+[2020.01.31-18.41.01:732][916]LogLoad: Game class is 'SinglePlayerMode_C'
+[2020.01.31-18.41.01:736][916]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2020.01.31-11.41.01
+[2020.01.31-18.41.01:737][916]LogWorld: Bringing up level for play took: 0.004204
+[2020.01.31-18.41.01:750][916]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.31-18.41.01:750][916]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.31-18.41.01:750][916]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.31-18.41.01:753][916]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.31-18.41.01:753][916]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test -0.75
+[2020.01.31-18.41.01:754][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.31-18.41.16:622][684]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.31-18.41.16:623][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-18.41.16:658][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.31-18.41.16:658][684]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2020.01.31-18.41.16:693][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.31-18.41.16:722][685]LogPlayLevel: Display: Destroying online subsystem :Context_5
