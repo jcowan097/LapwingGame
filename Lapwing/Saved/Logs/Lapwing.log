@@ -802,3 +802,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.17-18.40.59:261][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerCharacterBP]
 [2020.02.17-18.41.00:274][338]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Saved/PlayerCharacterBP_Auto2BB49FEAC4A4E8C2C8CA275BF7E8107E5.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Saved/Autosaves/Game/Blueprints/PlayerCharacterBP_Auto2.uasset'
 [2020.02.17-18.41.00:294][338]LogFileHelpers: Auto-saving content packages took 1.065
+[2020.02.17-18.51.00:652][795]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Test' took 0.037
+[2020.02.17-18.51.00:654][795]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PlayerCharacterBP] ([1] browsable assets)...
+[2020.02.17-18.51.00:654][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerCharacterBP]
+[2020.02.17-18.51.00:999][795]LogSavePackage: Moving 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Saved/PlayerCharacterBP_Auto3B1F2629A45397EE81C7E198D2B4E4168.tmp' to 'C:/Users/jocow/OneDrive/Documents/Jonah Cowan/Projects/LapwingGame/Lapwing/Saved/Autosaves/Game/Blueprints/PlayerCharacterBP_Auto3.uasset'
+[2020.02.17-18.51.01:006][795]LogFileHelpers: Auto-saving content packages took 0.353
